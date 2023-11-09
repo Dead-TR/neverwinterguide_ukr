@@ -1,54 +1,58 @@
 ---
-name: Locations of Neverwinter
+name: Локації Невервінтера
 slug: locations-of-neverwinter
 order: 30
 module-pagebreaks: h1, h2, h3
 ---
 
-# Locations of Neverwinter
+# Локації Невервінтера
 
-## Castle Never
+## Замок Невер
 
 ![Castle Never](PrintImages/CastleNeverPrint.png =500x){.print-only .print-bottom-right}
 
-Castle Never, towering over the western end of the city, is impossible to miss. The castle sits on the rocky cliffs and outcroppings on the north side of the estuary where the Neverwinter River and the Sea of Swords meet. The castle has a circular rock around its main structure from which three bridges radiate out over the Neverwinter River: the Sleeping Dragon Bridge, the Winged Wyvern Bridge, and the Dolphin Bridge.
+Замок Невер, що височіє над західною околицею міста, неможливо пропустити. Він розташований на скелястих рифах на північному березі затоки, де зустрічаються Море Мечів та ріка Невервінтер. Навколо замку знаходиться кам'яне коло, з якого виходять три мости через річку: Міст Сплячого Дракона, Міст Крилатої Виверни, та Міст Дельфіна.
 
-The castle straddles the boundaries between the Protectors Enclave, the Neverwinter Docks, and the Bluelake districts. Throughout history, Castle Never has been claimed as a part of many city districts, but it might be best to consider the Castle as its own district. The three bridges around the castle serve as an essential part of city infrastructure, providing a way of traversing the Neverwinter River and getting between the Protectors Enclave and Bluelake districts.
+Замок розташований на межі районів Протекторського Анклаву, Невервінтерських Доків, та Синього Озера. Впродовж історії, Замок відносили до різних районів міста, але корректніше його розглядати окремо. Мости виконують важливу роль в міській інфраструктурі, забезпечуючи можливість переходу через річку й з'єднуючи Протекторський Анклав та Синє Озеро.
 
-The castle's interior and exterior structure are both currently in disrepair, making the structure too dangerous for any inhabitation. The city's current de facto leader, Lord Dagult Neverember, is making inroads into restoring Castle Never.
+Інтер'єри та екстер'єри замку, знаходяться у занедбаному стані, роблячи споруду небезпечною для проживання. Нинішній де-факто лідер, Лорд Даґульт Нетліючий (Dagult Neverember), працює над реставрацією Замку.
 
-#### Castle Never: Rise and Fall
+#### Замок Невер: Підйом й Падіння
 
-A visitor to Neverwinter may note that its architecture differs a bit from that of other parts of the city. That is because Castle Never is actually over a millennium old, having been commissioned by the sun elf, Lord Halueth Never, who famously conquered the city of Illusk (of whose ruins modern-day Luskan now sits atop). Much of Castle Never was presumably built between -10 DR (Lord Never's conquest of Illusk) and 87 DR (the time Neverwinter was officially founded as a city). 
+Відвідувач міста, може помітити що архітектура замку дещо відрізняється. Це тому що насправді йому понад тисячу років. Його будівництво замовив сонячний ельф, Лорд Халует Невер, який завоював Іллуск в -10 DR (з руїн якого нині постало місто Лускан). В 87 DR Невервінтер було засновано як місто. Ймовірно замок Невер було побудовано десь між цими двома датами.
 
-Throughout Neverwinter's many attacks and disasters, Castle Never has stood tall as an imposing symbol of the city's resolve as well as a monument to the city's former glories. That isn't to say, however, that the Castle has been left unscathed. Perhaps the most-significant disaster for Castle Never was in 1451 DR when "[the cataclysm](history-of-neverwinter)" struck Neverwinter and left most of Castle Never in ruins and killed almost all of its inhabitants (including the ruling lineage). Castle Never now remains haunted with the spirits of those killed in the cataclysm.
+Попри численні напади на місто й різноманітні катастрофи, Замок Невер продовжував стояти, являючи собою символ рішучості й слави Невервінтера. Втім, він не залишився незмінним. Можливо, найбільш значущою катастрофою для Замку Невер, стала подія 1451 DR, відома як «[Катаклізм](history-of-neverwinter)». Вона вразила місто, й залишила більшу частину замку в руїнах вбивши всіх його мешканців, включно з місцевою владою. Й до нині, у Замку Невер можна зустріти духи загиблих.
 
 (print-page)
 
-#### Inside the Castle
+#### Всередині Замку
 
-Exploring the interior of Castle Never is currently a perilous activity. Adventurers looking to navigate the castle would find it inhospitable due to both its ghostly inhabitants as well as the simple dangers of exploring a building so severely damaged. The Castle is a massive structure with countless stories that both ascend toward the sky and descend to the depths. It has a number of well-documented areas of danger:
-- ***The Atrium***. The atrium, now boarded over to keep sunlight out and the heat of rot inside, contains an eerie display of exotic bird skeletons in gilded cages. The atrium is now home to territorial [Myconids](/monster/myconid-adult) that will attack and feast on intruders.
-- ***Hall of Mirrors***. Previously a long hall of mirrors where nobility practiced gait and posture, any mortal intruder that enters this hall will find a magical recreation of the hall's destruction. Shards of flying mirror glass and fiery ruins will be launched at any that dwell in the hall for too long.
-- ***Neverneath***. The catacombs under the castle, referred to as the "Neverneath", feature an enchantment that cause the maze-like layout to change dynamically with a malevolent sentience. Structures will change to create dead ends, tunnels that lead back on themselves, or doors that lead to new locations each time they are opened. All of this serves to trap adventurers in until they meet their demise, likely at the claws of the catacomb's many [gargoyles](/monster/gargoyle).
-- ***The Vault of the Nine***. This tomb is the resting place for the nine bodyguards of Neverwinter's royal lineage. The vault contains an outer chamber which features everburning torches that light the room when mortals enter. Undead lurk in the shadows of this outer chamber. The inner chamber, sealed away behind a giant stone door bearing the sigill of Neverwinter, has nine marble coffins that encircle a throne. Visitors that manage to make it to the inner chamber of the Vault of the Nine and take a rest may awaken to find the spirits the Nine standing vigil over them.
+Нині, дослідження Замку є небезпечною затією. Авантюристи, що забажають його відвідати, на собі відчують "гостинність" його нинішніх мешканців, й зіштовхнуться з купою небезпек, що викликані його пошкодженнями. Замок — це масивна споруда, що з верхівок веж й в глибини катакомб, наповнена історіями. Він має ряд задукоментованих небезпечних зон:
+
+- ***Атріум***. Нині входи у атріум заколочені, аби не пропускати всередину світло, й запобігти поширенні тліючого запаху на зовні. Він наповнений позолоченими клітками, зі скелетами екзотичних птахів. Тепер там живуть [міконіди](/monster/myconid-adult), які будуть нападати, та ласувати зловмисниками.
+
+- ***Дзеркальна Зала***. Раніше це був довгий дзеркальний холл, де знать вдосконалювала свою ходу та поставу. Нині ж, будь-який смертний, що потрапить в цю залу, знайде магічну реконструкцію її руйнації. Уламки скла, й палаючої оздоби будуть летіти у кожного, хто пробуде тут надто довго.
+
+- ***Невернеф***. Катакомби, названі ***"Neverneath"***, що можна перекласти як "Під Невером", сповнені магії яка змушує їх постійно змінюватись, створюючи глухі кути, тунелі до інших місць, або двері, що при кожному відкритті ведуть у нову кімнату. Це створено для ув'язнення тут авантюристів, доти, доки ті не загинуть від виснаження, чи лап численних [горгулій](/monster/gargoyle), що тут мешкають.
+
+- ***Сховище Дев'яти***. Ця гробниця є місцем відпочинку, для дев'яти охоронців королівського роду Невервінтера. Сховище складається із двох зал: зовнішньої, з вічнопалаючими смолоскипами, які освітлюють кімнату, й нежиттю, що чатує в тінях; й внутрішньою, що закрита гіганськими кам'яними дверима, з вирізьбленим символом Невервінтера. Відвідувачі, яким вдасться потрапити всередину, побачать дев'ять мармурових трун, що оточують трон. Якщо авантюристам вдасться тут відпочити, то в них є шанс прокинутися й побачити духів дев'яти, що пильнують за ними.
 
 (print-column)
 
-#### Restoring Castle Never
+#### Реставрація Замку Невер
 
-Lord Dagult Neverember has made it one of the city's priorities to see to the restoration of Castle Never. This is a tremendous undertaking that is likely to take years or decades. Neverember sees the endeavor as a worthwhile symbolic pursuit of the city's rejuvenation.
+Лорд Даґульт Нетліючий обрав відновлення Замку, своєю приорітетною ціллю. Це грандіозна мета, що займе роки, а то й десятиліття! Нетліючий вважає цю ініціативу гідним символом відродження величі міста.
 
-Grimly, one of the first portions of the castle that *has* been restored to functional use is its dungeons. Neverember has directed that those in Neverwinter convicted of high crimes be placed in castle dungeons, referred to as "The Holes" by the locals. Executions happen daily, at noon, in The Holes — generally two days from when the prisoner is sent to The Holes.
+Жахливо, але однією з перших частин замку, котрі *було* реставровано для практичного користування -- це його підземелля. Нетліючий розпорядився використовувати їх для утримання засуджених за важкі злочини. Місцеві прозвали це місце "Діри". Й кожного дня, опівдні, у Дірах відбуваються страти. Зазвичай через дві доби по тому, як ув'язнений туди потрапить.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Натхнення для DM**|
 |---|
-|***Murderous Merchants***. The restoration of Castle Never has come at the cost of high taxation to the populace of Neverwinter. This has upset some powerful merchants with deep pockets and unsavory company. Lord Dagult Neverember knows assassination attempts are likely and tasks the party with his protection and removal of his would-be killers.|
-|***Sentimental Relics***. A now-elderly Neverwinter noble lost a loved one in the castle's destruction nearly half a century ago. The elderly noble tasks the party with entry into the ruined castle to retrieve a sentimental relic from the body of their lost lover.|
-|***Construction Blocked***. Crews overseeing the Castle's restoration know ghosts and other monsters will need to be cleared from the castle. Lord Neverember has hired warriors and mages to help with this. However, construction has stopped because the crew found a magical barrier they cannot get across. The party must investigate a way to get construction rolling again.|
+|***Крамарі-вбивці***. Відновлення Замку Невер коштувало високих податків для мешканців міста. Не дивно, що це засмутило деяких впливових торговців. Лорд Даґульт Нетліючий знає про можливі спроби замаху, й доручає партії захистити себе, й усунути потенційних вбивць|
+|***Сентиментальні Реліквії***. Нині вже літній дворянин, втратив кохану людину, пів віку тому. Він доручає партії увійти в замок, й знайти цінну, своєму серцю, реліквію, з тіла свого втраченого кохання|
+|***Будівництво Стало***. Бригади, відповідальні за реставрацію замку, не працюють, доки той не буде очищено від привидів та інших почвар. Для цих цілей, Лорд Нетліючий регулярно наймає авантюристів. Однак цього разу, будівництво спинилося, т.я. команда наштовхнулася на магічний бар'єр, який неможливо подолати. Партія повинна відшукати спосіб вирішння цієї проблеми й відновлення будівництва.|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Acquisitions Incorporated*, p. 121 - 122, (5th Edition)|
 |*Sword Coast Adventurer's Guide*, p. 51, (5th Edition)|
@@ -60,39 +64,39 @@ Grimly, one of the first portions of the castle that *has* been restored to func
 
 (print-page)
 
-## Protector's Enclave
+## Протекторський Анклав
 
-### The Hall of Justice
+### Зал Правосуддя
 
-The Hall of Justice stands as the primary temple to Tyr, the god of law and justice, in the city of Neverwinter. The Hall's grand stone walls, towering stone pillars, and high domed roof make it an impressive and intimidating structure. Its interior is also large enough to house large races such as giants and dragons.
+Зал Правосуддя це головний храм Тира, бога закону та справедливості. Високі кам'яні стіни, кремезні колони та величний купольний дах, роблять його вражаючою та жаскою спорудою, всередині якої достатньо простору, щоб туди помістились представники гіганських рас, таких як велетні чи дракони.
 
-Serving as much more than a mere temple to a deity, the Hall of Justice functioned as the city's court for low justice (i.e., excluding crimes where the accused were of noble birth, lacking citizenship, or charged with murder). It also served as a drilling and training ground in disciplined weaponry for those devout followers who served to defend the temple and that for which it stood. The Hall's functions largely ceased with Tyr's death in the late 1300s DR.
+Зал Правосуддя був не лише храмом. Він виконував роль міського суду, де розглядались низькорангові справи (тобто ті, де звинувачені не були знатного роду, не мали громадянства, чи були звинувачені у вбивстві), й використовувався як місце для навчання та тренувань захисників храму в мистецтві володіння зброєю. Після смерті Тира, в кінці 1300-х DR, функціонування Залу майже повністю зупинилось.
 
-Even after Tyr's death, residents of Neverwinter refused to repurpose the temple to worship other deities. When Lord Neverember arrived in the city, he installed a temporary priesthood of Torm at the location, reasoning there were similarities in religious tenets. He also used the temple as a base for his operations in the city as well as a personal residence. Both actions were met with disapproval by the city's residents.
+Та навіть після того, як Тира нестало, містяни відмовилися проводити в храмі служби призначені іншим богам. Лиш коли Лорд Нетліючий прибув до міста, він встановив тут тимчасове святилище Торма, опираючись на близькість їх сфер впливу. Він також використовував храм як базу для своїх операцій в місті, й як особисту резиденцію. Усі ці дії, невервінтерці зустріли із осудом.
 
-With Tyr's recent resurrection, the temple has now been rededicated to Tyr, and Lord Neverember now uses a private villa as his personal residence. The Hall's restoration was highly regarded by the citizens of Neverwinter and did much to improve Lord Neverember's esteem with locals. With the Hall of Justice returning to its former glory, it once again serves as the central focal point, in both physical location and spirit, of the Protector's Enclave.
+Лише з поверненням Тира, храм знову було освячено в його честь, а Лорд Нетліючий перебрався в приватну резиденцію. Мешканці міста високо оцінили відновлення Зали, й їх ставлення до Лорда значно поліпшилось. З поверненням Залу Правосуддя колишньої слави, він знову зайняв центральне положення (як фізично так і духовно) серед Протекторського Анклаву.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 51, (5th Edition)|
 |*Neverwinter Campaign Setting*, p. 140 - 141, (4th Edition)|
 |*Volo's Guide to the North*, p. 133 (2nd Edition)|
 {.references}
 
-### The House of Knowledge
+### Дім Знань
 
-The House of Knowledge is both a library and the primary temple to Oghma in the city of Neverwinter. Architecturally, it is regarded as one of the most impressive and beautiful structures in the city – featuring abundant windows and an impressive arched roof. Its vast libraries contain many centuries worth of precious records and materials, including modern government documentation as the city lacks a formal seat of government at present.
+Дім Знань це, одночасно, бібліотека, та головний храм Огми у місті. Архітектурно, він вважається однією з найбільш вражаючих та красивих міських споруд -- з великою кількістю вікон та неймовірним арочним дахом. Всередині знаходиться безліч дорогоцінних записів, за багато віків, включно з актуальною урядовою документацією, оскільки наразі у місті немає адміністративних органів.
 
-Like so much of Neverwinter, the House of Knowledge suffered near total destruction with the eruption of Mount Hotenow in 1451 DR. A dedicated young Loremaster, Atlavast, saved much of the library's precious contents by sealing away the temple's inner sanctum and trapping himself inside. Alone and in solitude, Atlavast managed to survive the cataclysm and save multitudes of rare tomes, documents, and artifacts. However, he soon grew reclusive and a little mad from the isolation. He spent his time repeatedly cataloging and reorganizing the library. He grew extremely protective of the content. During this time, the outer sections of the House of Knowledge were taken over by various squatters, including the devil-worshipping Ashmadai cultists.
+Як і багато інших будівель, Дім Знань був майже повністю знищений через виверження гори Хотенау в 1451 DR. Однак, молодий Майстер Атлаваст врятував більшість цінних матеріалів, запечатавши внутрішнє святилище храму, з собою всередині. Хоч і у ізоляції, та Атлавасту вдалося пережити катаклізм, та врятувати бібліотеку. Однак через це він замкнувся в собі, й трохи поїхав дахом, присвятивши весь свій вільний час захисту й реорганізації бібліотеки. Доки той був під захистом, інші частини будівлі, займали різні фракції, включаючи демонопоклонницький культ Ашмадай. Та нині це вже в минулому.
 
-Since the chasm's sealing, the faithful of Oghma have returned to the temple and work to restore it as a center of knowledge and learning. The stern Grand Scribe Spivey Liethennson now oversees the House's reconstruction with an iron fist and short temper. The House of Knowledge's exterior has already been largely restored, though much restoration work remains underway on the interior. Still, the house has once again become a functional location for those seeking local lore and records.
+Після запечатування Прірви, служителі Огми повернулись до храму й працюють над його відновленням. Великий Писар, суворий чоловік з залізною рукою та запальним характером, Співі Летенсон (*Spivey Liethennson*) нині керує реконструкцією Дому. Й хоча зовні споруду вже майже повністю відбудовано, всередині все ще кипить робота. Тим не менш, Дім Знань знову працює для тих, кому потрібні документи, знання, чи записи.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Натхнення для DM**|
 |---|
-|***Inconvenient Information***. Players seeking specific lore about Neverwinter or the surrounding area would be wise to consider the vast wealth of information stored at the House of Knowledge. However, to access some pieces of knowledge, the party might have to contend with the short fuse of Grand Scribe Liethennson or the cracked, over-protective demeanor of Loremaster Atlavast. Either may make the party prove themselves in some way before they would be trusted with the library's contents.|
+|***Незручна інформація***. Гравці, що шукають якусь інформацію про місто чи його околиці, можуть спробувати відвідати Дім Знань. Однак деякі матеріали можуть бути недоступними чи прихованими, й для доступу до них, партії доведеться познайомитись з дратівливим характером Великого Писаря Летенсона, або з замкненим та надміру недовірливим Майстром Атлавастом. Вони обидва можуть спершу випробувати групу, перш ніж їй довіритися.|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 51, (5th Edition)|
 |*Acquisitions Incorporated*, p. 122, (5th Edition)|
@@ -104,58 +108,58 @@ Since the chasm's sealing, the faithful of Oghma have returned to the temple and
 
 ![The Moonstone Mask](PrintImages/MoonstoneMaskCover.jpg){.size-cover .no-margin .print-only}
 
-## The Floating Earthmotes
+## Витаючі Острови
 
-One of the most enchanting features of the city of Neverwinter is its three large floating earthmotes. The Spellplague of 1385 DR caused chunks of Neverwinter (as well as other areas all over Toril) to rise up and begin floating away. Industrious residents of Neverwinter were able to tether a few of these earthmotes with ropes and prevent them from ultimately flying off into the Sword Coast.
+Однією з найчарівніших особливостей Невервінтера є його три великі літаючі острови. Чарівна Чума 1385 DR призвела до того, що по всьому Торилу почали відриватись й витати шматки землі. Працьовиті невервінтерці змогли прив'язати кілька таких мотузками, й не дати їм покинути Узбережжя Меча.
 
 ![The Moonstone Mask](Images/POICards/MoonstoneMask.webp){.size-full .screen-only .before-next-page-header}
 
-### The Moonstone Mask
+### Місячна Маска
 
-The Moonstone Mask is a large inn that sits on a floating earthmote connected to the docks of the Protector's Enclave section of Neverwinter. It is regarded by many as Neverwinter's finest, most luxurious inn. The locale is named for the half-masks worn by all of its staff, which are lined with glowing moonstones.
+Місячна Маска (*Moonstone Mask*) -- це велика корчма розташована на витаючому острові, який з'єднаний з доками Протекторського Анклаву. Багато хто вважає це місце найкращим на найрозкішнішим заїжджим двором Невервінтера. Заклад отримав свою назву через напівмаски, які носить персонал, котрі вистелено сяючими місячними каменями.
 
 (print-column)
 
-#### The Mask's Staff
+#### Персонал Маски
 
-One might assume the Moonstone Mask's impeccable accommodations and unparalleled views are what entices its patrons, but it is actually the Mask's staff that are the inn's primary draw. The serving staff are all trained to be expertly-skilled companions as well as friendly and loyal confidants. The staff can be expected to offer erudite conversation and skill in a variety of games. It is this companionship that has made the Moonstone Mask a destination for the people of high rank and wealth for over a century. 
+На перший погляд, хороші умови проживання, й вражаючий краєвид є тим, що приваблює гостей до Місячної Маски. Та насправді, головною родзинкою закладу є його персонал. Їх навчили бути вірними компаньйонами, та відмінними співрозмовниками. Від кожного співробітника можна очікувати ерудованих бесід й високих навичок у різноманітних іграх. Саме компанійськість робить Маску такою популярною серед знаті, протягом більш ніж ста років.
 
 ![Lady of the Moonstone Mask](Images/MoonstoneMaskLady.jpg =320x){.print-bottom-right .with-margin}
 
 (print-page)
 
-While the Moonstone Mask no longer employs only women as its serving staff, all of the customer-facing employees are exceptionally attractive. The Moonstone Mask's staff are all dressed in sheer black, each also wearing the inn's namesake masks and an amulet. However, these clothing items are no simple uniform. The masks provide the wearer with the abilities of Dark Vision or Infravision, allowing all of the staff to gracefully traverse dim or darkened areas of the inn. The amulets, also magical, provide the staff immunity from mind-reading or control — an important quality given how much sensitive information the inn's companions are entrusted with. The amulets also allow magical communication with the inn's proprietor using only silent-thought — an important security feature were an employee to ever encounter an unruly or unsavory guest.
+Раніше тут працювали лише жінки, та нині, хоч це й не так, увесь персонал залишається надзвичайно привабливим. Всі вони одягнені в чорне, носять маски оздоблені місячним каменем, та амулети. Втім, це все не просто уніформа. Маски надають здатність до Темно- та Інфразору, що дозволяє легко пересуватися мороком. Магічні амулети надають імунітет від читання думок та контролю розуму, що є важливим в умовах доступу персоналу до конфіденційної інформації. Крім того, амулети дозволяють телепатично зв'язатися з власником готелю -- важлива міра безпеки, на випадок нахабного чи небезпечного гостя.
 
-Liset Cheldar, a half-elf woman, currently serves as the Moonstone Masks' proprietor. Liset is presumed to be the descendant of the Moonstone Masks' previous owner, Ophala Cheldarstorn. Unlike Ophala, who was a powerful mage, Liset does not appear to possess such powers. Liset is friendly and known to flirt with guests.
+Лісет Чельдар (*Liset Cheldar*), жінка напівельф, є нинішньою власницею Місячної Маски. Припускається, що вона є нащадком попередньої власниці, Офали Чельдарсторн. На відміну від Офали, яка була сильним магом, Лісет не володіє подібними силами. Лісет приємна жінка, що часто фліртує з клієнтами.
 
-#### The Mask's Amenities
+#### Зручності Маски
 
-The inn features a large, warm, and inviting ground floor dining room. The room also serves as a comfortable lounge with an impressive hearth. The rest of the first floor is taken up by kitchens dedicated to preparing haute cuisine for the inn's many guests. A grand, spiraling staircase leads up from the dining room to the guest rooms above. The atmosphere of the dining room is generally relaxed with polite conversations occurring throughout.
+На пешому поверсі заїжджого двору знаходиться велика та затишна кімната для прийому їжі, що водночас є комфортабельною вітальнею з вражаючим каміном. Решту поверху, займають кухні, де, для гостей, готують найвишуканішу їжу. З вітальні, до гостьових кімнат, ведуть масивні спіральні сходи. Загалом, приємні та ввічливі розмови, наповнюють залу невимушеною атмосферою.
 
-Guest rooms occupy the second through fourth floors. The rooms range in size from single-bed studios to large suites on the upper floors. All feature comfortable beds and luscious fur rugs. Guests staying in the inn's rooms can expect meals to be included with the price of their stay, but alcohol can cost extra. Naturally, the Mask features an impressive selection of fine libations.
+Гостьові кімнати займають з другого по четвертий поверхи. Розміри номерів варіюються від одномісних кімнат, до просторих люксів, на верхніх поверхах. Про те, всі вони мають зручні ліжка й розкішні хутряні килими. Гості, що зупиняються в Масці, можуть розраховувати на те, що їжу включено у вартість проживання, але алкоголь доведеться оплачувати окремо. Воно й не дивно: Місячна Маска має вражаючий асортимент вишуканих напоїв.
 
-For guests travelling through the most elaborate means, the roof features a special landing for winged steeds. It is rumored the Mask is laden with hidden wall panels that can open up for secretive travel within the inn itself. The staff is said to open these panels by speaking certain magical words. The fifth floor, directly below the penthouse suites, houses a lively festhall with music and dancing. The aforementioned magical soundproofing ensures this doesn't disturb any of the guests.
+Для гостей що подорожують крилатими скакунами, на даху є спеціальний майданчик. Кажуть, що Маска преповнена таємними проходами між кімнат, ввійти до яких можна промовивши певні магічні слова. Вони дозволяють персоналу потай пересуватись спорудою. На п'ятому поверсі розміщується жвавий фестиваль з музикою та танцями, а над ним, знаходяться пентхауси. Магічна звукоізоляція кімнат гарантує, що це нікому не заважатиме.
 
 (print-column)
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Натхнення для DM**|
 |---|
-|***Knowledge Base***. Liset and the other Moonstone Mask staff would possess a wealth of information and rumors about the city. They'd never offer up confidential information about one of their clients, but they would be able to inform adventurers about non-confidential events and rumors.|
-|***Good Company***. It wouldn't be uncommon or surprising to find notable figures at the Moonstone Mask, including Lord Dagult Neverember himself. Use this location as a place for notable run-ins.|
-|***Baubles in the Basement***. If players were able to creep around the various storage rooms in the Mask's basement without getting caught, they may find all manner of magical items.|
+|***Осередок Знань***. Лісет та персонал Маски, можуть володіти великою кількістю інформації та чуток про місто. І хоча конфіденційну ніхто з них не видасть, але не конфіденційною вони цілком можуть поділитися.|
+|***Хороша Компанія***. Не рідко в Місячній Масці можна зустріти відомих постатей чи вельмож, в тому числі й самого Лорда Даґульта Нетліючого. Використовуйте цю локацію, як місце для примітних зіткнень.|
+|***Добро у Підвалі***. В підвалі Маски, знаходяться сховища, наповнені різноманітними магічними предметами. Гравці можуть їх знайти, якщо непомітно туди проникнуть.|
 {.dmidea}
 
 ![Liset Cheldar](Images/LisetCheldar.jpg =300x)
 
 (print-page)
 
-#### The Mask's History
+#### Історія Маски
 
-The Moonstone Mask was built by Ophala Cheldarstorn, a mage and member of the Many-Starred Cloak. Ophala is also the creator of the magical masks and amulets worn by the staff. Before the Mask was sent floating above Neverwinter, it was rumored to feature secret entrances where special guests could enter and depart unnoticed. It was also rumored to have basements that connected to tunnels of dwarven-held areas of the Underdark.
+Місячну Маску збудувала Офала Чельдарсторн, маг і член ордену Багатозоряний Плащ. Вона ж створила маски та амулети, котрі носить персонал. Раніше ходили чутки, що до того як Маска злинула у повітря, під нею знаходилися таємні ходи, якими особливі гості могли таємно її відвідувати. Також говорили про наявність підземель, що сполучалися з підконтрольними дворфам районами Підморку.
 
-In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption of Mount Hotenow snapped the inn's rope tethers.  The ropes tethering the inn were eventually replaced by large, sturdy chains, but only after the inn went drifting over the Sea of Swords for months. Even after the Mask was finally returned to Neverwinter, it ultimately attracted too few guests, became insolvent, and shuttered for a few decades. After Lord Dagult Neverember started his "New Neverwinter" movement to begin rebuilding Neverwinter, Liset Cheldar was able to not only convince Neverember that she was the rightful heir of the Moonstone Mask, but also able to have him help fund the restoration of the inn to much of its former glory under Ophala Cheldarstorn. In repayment the inn served to often house Neverember and many of his mercenaries and officers throughout the 1470s and 1480s DR.
+Після виверження гори Хотенау В середині 1400-х DR, мотузки, що тримали острів, обірвалися, й корчму занесло в Море Мечів. Після того, як вона кілька місяців дрейфувала морем, її нарешті повернули до міста, прикувавши міцними металевими ланцюгами. Але по тому, місто не змогло привабити вдосталь гостей, й Маска збанкрутувала, й кілька десятиліть була зачинена. Лиш після того, як Лорд Неверембер почав свій рух "Новий Невервінтер", за відбудову міста, Лісет Чельдар переконала того, що являється законною спадкоємицею Місячної Маски, й змогла отримати фінансування для її відновлення, до колишньої слави. У відповідь, заїжджий двір служив домом Нетліючого, його найманців й офіцерів протягом 1470-80-тих DR.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Neverwinter Campaign Setting*, p. 142 - 143, (4th Edition)|
 |*Storm Over Neverwinter*, p. 8 - 11 (4th Edition)|
@@ -163,103 +167,103 @@ In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption o
 |*The North - Guide to the Savage Frontier - Cities and Civilizations*, p. 16 - 17 (2nd Edition)|
 {.references}
 
-### Pirates' Skyhold
+### Скайхолд Піратів
 
-Northwest of Neverwinter, just off the Sword Coast, is another floating earthmote referred to as "Pirates' Skyhold". Soon after the Spellplague, some pirates in the area noted the earthmote could serve as a defensible base in the coasts they roamed. One band of pirates, in possession of a skyship, claimed the earthmote as their own and built up modest wooden fortifications on the earthmote.
+На північний захід від Невервінтера, серед Узбережжя Меча, знаходиться ще один Витаючий Острів, відомий як Скайхолд Піратів (*Pirates' Skyhold*). Невдовзі після Чарівної Чуми, група піратів, що володіла літаючим кораблем, захопили цей острів, й проголосивши його своєю власністю, збудували там дерев'яні укріплення.
 
-A mysterious tragedy befell the skyhold that left most, if not all, of its pirate residents dead or missing. Their skyship remains docked on the earthmote as an eerie reminder of its abandonment. No one knows precisely what happened on the skyhold, but scores of rumors about the location circulate in Neverwinter. Some claim a dragon took the skyhold, others claim it is being inhabited by Netherese, while still others claim it is haunted by all manner of ghosts.
+Згодом форт спіткала таємнича трагедія, котра вбила більшість, якщо не всіх, піратів на острові. Їх порожній літаючий корабель залишився моторошним нагадуванням, про минувші події. Ніхто точно не знає що саме сталося у Скайхолді, але в місті про нього ходить безліч чуток. Хтось стверджує, що форт захопив дракон, інші -- що його заселили Нітерійці (*Netherese*), а треті -- що острів переповнений привидами.
 
-It is also rumored that a hoard of treasure still exists on the earthmote. The pirates were reported to store their booty in the skyhold, and given their sudden demise, it is thought the treasure must surely still be on the earthmote somewhere. Getting to the skyhold, however, is no easy feat. Some form of aerial or magical transportation will need to be procured to access the area.
+Також, подейкують, що на острові залишився піратський скарб. Відомо, що вони тягли туди награбоване, й з огляду на їх раптову загибель, припускають, що скарб повинен був залишитись десь на острові. Але потрапити на нього дуже не просто. Щоб дістатись цієї області, треба добути повітряний чи магічний транспорт.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Натхнення для DM**|
 |---|
-|***An Open Book***. Per the Neverwinter Campaign Setting of Fourth Edition, the Pirate's Skyhold was intentionally left mysterious and open for Dungeon Masters to create their own adventures at the location.|
-|***Dragon's Hoard***. It's well-known dragons love a good hoard! A younger dragon may have attacked the Skyhold, slain all the inhabitants, and kept the pirates' booty as its very own hoard.|
-|***Zombie Pirates***. The god of death, Myrkul, has been very active in the area (see [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip) and the [Beyond Dragon of Icespire Peak](https://www.dndbeyond.com/essentials/continue-the-adventure) trilogy). Undead have overrun the Skyhold and turned it into a fort of the damned. The Death Knight-Dreadnaught is eerily anchored below the earthmote.|
-|***I'll Take One of Each***. Myrkul has sent a [Dracolich](/monster/adult-blue-dracolich){.red} or [Ghost Dragon](/monster/ghost-dragon){.red} to the Skyhold, where it sits on a hoard of pirate booty and lords over an army of undead pirates!|
+|***Відкрита Книга***. Відповідно до *Neverwinter Campaign Setting 4e*, Скайхолд Піратів умисне залишили таємничим й відкритим для DM, аби ті могли створити там власну пригоду.|
+|***Скарб Дракона***. Не секрет, що дракони полюбляють золото. Юний дракон міг атакувати Скайхолд, вбити всіх мешканців, й привласнити їхню здобич, як власний скарб.|
+|***Зомбі Пірати***. Бог смерті Миркул був дуже активний у цій місцевості (див. [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip) та трилогію [Beyond Dragon of Icespire Peak](https://www.dndbeyond.com/essentials/continue-the-adventure)). Невмерлі захопили острів, перетворивши його на форт проклятих. Під островом, на прив'язі, знаходиться Смертельний Лицар-Дредноут (*The Death Knight-Dreadnaught*).|
+|***Візьму по одному із кожного*** Миркул наслав на Скайхлод [Драколіча](/monster/adult-blue-dracolich){.red} чи [Дракона-Привида](/monster/ghost-dragon){.red}. Відтоді він панує над армією невмерлих піратів, оберігаючи свої скарби!|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |1 - *Neverwinter Campaign Setting*, p. 148, (4th Edition)|
 {.references}
 
-### Fisher's Float
+### Поплавок Фішера
 
-Fisher's Float is an earthmote just southwest of Neverwinter that a hearty guild of fishermen has made their home and business headquarters. The homes and warehouses visible on the earthmote are austere by all accounts. The small, wooden shanties certainly imply that the fishers and sailors that call the Float their home are not living indulgent lifestyles.
+Поплавок Фішера -- це Витаючий Острів, що на південному-заході від Невервінтера, який місцева гільдія рибалок зробила своїм домом та офісом. Склади та будинки, що розкинулися на острові, доволі прості та скромні. Одного погляду на ці маленькі дерев'яні халупи вистачить, щоб зрозуміти, що рибалки та моряки, котрі тут мешкають, ведуть далекий від розкішного спосіб життя.
 
-While these fishermen peacefully supply a massive portion of Neverwinter's seafood, they also manage to keep largely to themselves. As a result, there exist plenty of rumors about the goings-on of Fisher's Float. One particularly prevalent rumor is that the residents of Fisher's Float are in some form of allegiance with evil sea gods and/or sea monsters.
+Й хоча жителі Поплавка постачають велику кількість морепродуктів у Невервінтер, все ж, тримаються від міста дещо ізольовано. Від того, про острів ходить багато чуток, найпоширенішою з яких є те, буцімто його мешканці живуть у якомусь союзі зі злими богами моря, та/або морськими чудовиськами.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Neverwinter Campaign Setting*, p. 148, (4th Edition)|
 {.references}
 
 (print-page-single-column)
 
-## Neverwinter's Docks
+## Невервінтерські Доки
 
 ![The Beached Leviathan](Images/POICards/BeachedLeviathan.webp){.size-full .screen-only .before-next-page-header}
 
-### The Beached Leviathan
+### Пришвартований Левіафан
 
-The Leviathan was an infamous pirate vessel that prowled up and down the Sword Coast, striking terror into those that crossed its path. The Leviathan's captain, Harrag, was a fearsome foe to any that met him at sea, and no sailors felt their treasure safe while Harrag was out hunting on the Sea of Swords. Sometime after the eruption of Mount Hotenow, the Leviathan ran aground in northern Neverwinter and punctured its hull. Rather than abandon his ship, Harrag stayed with it as the city's docks were rebuilt around the ship (part of the general reconstruction efforts of the time). Harrag oversaw the ship's conversion from a wreck into a thriving inn and tavern.
+"Левіафан" був сумнозвісним піратським кораблем, що ходив уздовж Узбережжя Меча, жахаючи мореплавців. Капітан Левіафана, Гарраґ, був страшним ворогом кожному, хто зустрічав його в морі. Жоден моряк не мав певності, що його трюм у безпеці, коли Гарраґ виходив на полювання. Незадовго після виверження Гори Хотенау, на півночі Невервінтера, Левіафан сів на мілину й пробив свій корпус. Замість аби покинути судно, Гарраґ залишився із ним, спостерігаючи як міські доки відбудовуються навколо нього (частина тогочасної реконструкції міста), й як розбите корито перетворюється на процвітаючий шинок.
 
 ![The Beached Leviathan](Images/BeachedLeviathan.jpg){.image-beached-leviathan}
 
-#### Walking the Planks
+#### Ідучи Палубою
 
-The ship is divided into three levels for guests. The first level ("the hold"), entered from the docks, hosts the Beached Leviathan's kitchen and tavern. The tavern has a large number of tables fit for parties of all sizes. The second level ("the quarters") hosts an inn with 12 rooms of various sizes for rent, and the third level ("the deck") features private parlor rooms and tables that can be rented for a heftier price. Atop "the deck" is an extra upper cabin that serves as Captain Harrag's private quarters. The decks' various levels are accessible via a small spiral staircase at the center of the ship. In addition, a pulley-operated lift can transport goods between each of the levels via a small shaft that extends through each of the levels.
+Корабель розділено на три гостьових рівні. У першому ("трюм"), куди можна потрапити з доків, знаходяться кухня та шинок. Тут є багато столів, для компаній різного розміру. Другий рівень ("каюти"), пропонує нічліг, даючи 12 кімнат на вибір. А на третьому ("палуба") знаходяться дорогі люкси (*parlor rooms*) та столики. На вершині "палуби" є додаткова каюта, в якій мешкає Капітан Гарраґ. Між рівнями можна пересуватись спіральними сходами, в центрі корабля. Крім того, підйомник, що працює на лебідці, може транспортувати вантажі через невеликий вал, який пронизує усі рівні.
 
-The entire ship is decorated with nautically-themed paraphernalia, many of which are trophies from Harrag's past conquests. The interior of the ship and its furnishing are well-crafted, featuring fancy oak and cherry woodwork. However, years of patrons coming, going, and brawling have left the finely-crafted interior well-worn.
+Корабель прикрашено атрибутами морської тематики, багато з яких є трофеями із подорожей Гарраґа. Інтер'єр корабля й його меблі, є вишуканою й на совість зробленою роботою, з дуба та вишні. Тим не менш, за роки служби, відвідувачі зробили інтер'єр сильно зношеним.
 
-#### Grog and Gangs
+#### Ром і Ватага
 
-The clientele of the Beached Leviathan are generally a humble, mixed bunch. Any with coin to spend are welcome at the tavern. Frequent patrons include sailors as well as more land-bound residents of Neverwinter. Both staff and patrons frequently use nautical slang in the tavern (e.g., referring to a drunkard as "ballast" or calling a newcomer a "privateer"). It's very common for landlubbing visitors to feel a bit lost when it comes to parsing the sailors' dialect. Gambling and brawling are both frequent occurrences, though the latter is likely to get you promptly tossed off the ship.
+Клієнтами Левіафана, як правило, є різні, не заможні, люди. Основними відвідувачами є моряки, але її відвідують і сухопутні мешканці Невервінтера. Проте, в корчмі раді будь-кому у кого є гроші. В таверні часто використовують морський сленг (на приклад називаючи п'яницю "балластом", чи звертаючись до новачка як "привратник" ). Часто, в такі моменти, відвідувачі, що не виходили в море, губляться, не розуміючи про що йдеться. Азартні ігри та бійки тут не є рідкісним явищем, але за останє можуть і за борт викинути.
 
-It's also extremely common to find any number of seedy factions represented at the Beached Leviathan. Commonly sighted at the tavern are smugglers, thieves, and press gangs. To these ilk, the Beached Leviathan serves as an important place of business. Deals are made, trades are performed, and the occasional drunken sailor is enslaved. All of this is relatively well-known to Lord Neverember and his forces, who often also discretely monitor the tavern to keep abreast of the city's seedy underbelly. Neverember and his watch, however, almost never intercede in these foul dealings, choosing instead to keep the tavern as a reliable source of information.
+Також тут можна зустріти представників злочинності, контрабандистів, крадіїв, незаконних торговців. Для цих осіб, Пришвартований Левіафан служить важливим місцем для бізнесу. Тут укладають угоди, торгують, а випадковий п'яниця може потрапити в рабство. Все це добре відомо Лорду Нетліючому та його людям. За корчмою ведеться обережний нагляд, аби бути в курсі злочинних справ, хоч і в основному у них ніхто не втручається, зберігаючи Левіафан в якості надійного джерела інформації.
 
 (print-page)
 
-#### Loyal Shipmates
+#### Морські Товариші
 
-An establishment like the Beached Leviathan couldn't exist without a fearless captain and a hearty crew to support him. The Beached Leviathan has a colorful collection of staff and regulars that make the location such an interesting place. Becoming a regular at the tavern is likely to earn one an apt, nautically-themed nickname.
+Пришвартований Левіафан не міг би існувати без безстрашного капітана та відданої команди! Тут зібралася колоритна компанія з відвідувачів й персоналу, які роблять цей заклад таким цікавим. Доєднавшись до них, й ставши постійним відвідувачем таверни, ви, найімовірніше, також отримаєте влучне морське прізвисько.
 
-***Captain Harrag.*** Captain Harrag is a burly, hairy man with only one leg (he lost the other in a fight with sahuagin). He has a fearsome and gruff exterior, but those who know him closest are aware that the man possesses an impressive amount of compassion and empathy. The Beached Leviathan is a true labor of love for the Captain, and he takes immense pride in the establishment. That said, Harrag is no pushover. Harrag will not shy away from securing good deals for his business even if the tactics demand he be cutthroat. Likewise, those that threaten the establishment will be swiftly and strongly dealt with.
+***Капітан Гарраґ.*** Капітан -- кремезний, одноногий, волохатий чоловік (другу він втратив у бою з сахуагіном). Він має страшний та грубий зовнішній вигляд, але його близькі знають, що він володіє вражаючою кількістю співчуття та емпатії. Пришвартований Левіафан -- результат любові й відданої праці капітана, й він ним надзвичайно пишається. Втім, не варто його недооцінювати. Гарраґ не впустить вигідної, для себе, угоди, навіть якщо та, вимагатиме від нього жорстокості, й каратиме тих, хто загрожує його закладу.
 
 ![Captain Harrag](Images/CaptainHarrag.jpg =290x)
 
-##### Staff ("Crew")
+##### Персонал ("Екіпаж")
 
-***Andrella.*** "Mate" - Andrella is Harrag's right hand. A middle-aged, human woman, she is the lead barmaid (Jyseria, Sandrine, and Willow being the other barmaids). She leads the staff when Harrag isn't around and cares very deeply for Harrag. She has developed somewhat of a secret, unrequited love for the Captain.
+***Андрелла*** "Приятелька" - Андрелла права рука Гарраґа. Людська жінка середнього віку, яка є головною барменшею (крім неї, за баром стоять Жизерія, Сандрін, та Віллоу). Вона дуже піклується про капітана, й керує персоналом, коли той відсутній. Жінка приховує своє нерозділене кохання до Гарраґа.
 
-***Feng.*** A very large half-orc male, Feng serves as the tavern's bouncer.
+***Фенґ*** Чималий чоловік напів-орк. Працює охоронцем.
 
-***Tabnab.*** An oddball human male, Tabnab is the inn's cook.
+***Табнаб*** Дивакуватий людський чоловік. Повар.
 
-##### Regulars
+##### Відвідувачі
 
-***Len-jes.*** "Harbormaster" - Len-jes, a female scarred watersoul genasi, is actually the harbormaster of Neverwinter. She rents a room in the Beached Leviathan semiregularly.
+***Лен-жес.*** "Капітан Порту" - Лен-жес покрита шрамами водяний дженазі. Вона реально є капітаном порту Невервінтера. Час від часу винаймає кімнату в Пришвартованому Левіафані.
 
-***Umi.*** "Helmswoman" - Umi, also a female watersoul genasi, is Len-jes's cousin and serves as backup to Feng if a situation at the tavern becomes too rowdy. She's highly skilled with the sword.
+***Умі*** "Рульова" - Умі також водяний дженазі. Вона двоюрідна сестра Лен-жес. Вправно володіє мечем, й може замінити або допомогти Фенґу, якщо ситуація в закладі вийде із під контролю.
 
-***Bobrik Highmantle.*** "Bosun" - Bobrik, a stout male dwarf with a pet monkey, is a regular fixture at the bar. He has a fiery temper that occasionally gets him kicked out of the tavern for a few days. 
+***Бобрик Дужий-Плащ*** "Боцман" - Бобрик (*Bobrik Highmantle*), кремезний дворф з ручною мавпою, є постійним гостем у барі. Має запальний темперамент, через що, часом, його можуть вигнати з таверни на кілька днів.
 
-***Markul.*** "Lookout" - Markul, a young human man, is constantly listening to all the goings-on at the tavern. For the right price, he's willing to share the secrets he has learned, as long as they aren't secrets that he perceives would harm the Leviathan.
+***Маркул*** "Караульник" - Маркул молодий людський хлопець, що прислухається до всього що відбувається у таверні. Він готовий, за певну ціну, поділитись почутими секретами, якщо це не зашкодять Левіафану.
 
-***Ettain.*** "Caulker" - Ettain, a half-elf male, works as the ship's handyman. He's a skilled carpenter that can repair the ship as well as craft or repair its furniture when needed. He knows every square inch of the ship, including its secrets.
+***Еттейн*** "Конопатник" - Еттейн, чоловік напів-ельф, що працює в корчмі різноробочим. Він вмілий тесля, й часом лагодить корабель, або меблі. Знає кожен дюйм Левіафана, включаючи найпотаємніші закутки.
 
-***Korin.*** "Chanteyman" - Korin, a middle-aged male dragonborn bard, plays music and sings at the tavern. He is often known to get the whole bar singing sea shanties and folk songs. He gladly accepts tips and drinks. His family was slaughtered by cultists, which he will sometimes work into a sorrow-laden dirge.
+***Корін*** "Шантимен" - Корін це драконороджений бард, середніх років. Водночас і музикант, і виконавець. Часто спонукає увесь бар співати морських шантів, або народних пісень. Із задоволенням бере чайові, й дармову випивку. Його родину вбили сектанти, що, часом, схиляє його до скорботних пісень.
 
 (print-page)
 
-#### Stormy Waters
+#### Бурхливі води
 
-Throughout its relatively brief history in Neverwinter, the Beached Leviathan has found itself embroiled in conflict well beyond its seemingly-humble station. This is largely because of the type of patronage allowed in the Leviathan, in addition to Lord Neverember's own involvement with the locale. It was with Neverember's support and patronage that Harrag was able to create the establishment at all — as Neverember was ultimately the one to expunge record of his numerous crimes on the high seas. This made Harrag a true Neverember loyalist. Lord Neverember absolutely uses Harrag for his own ambitions. Neverember even went so far as to turn Harrag's own shadow into a sentient creature used to spy on the facility. 
+За свою коротку історію, Пришвартований Левіафан не раз опинявся втягнений у конфлікти, що виходили за межі його видимо-скромної ролі. Цьому, значною мірою, сприяє контингент Левіафана, й причетність до нього Лорда Нетліючого. Власне, саме завдяки його підтримці, Гарраґ взагалі зміг відкрити свій заклад, адже Лорд знищив усі записи про злочини капітана у відкритому морі, чим заслужив його прихильність. В дійсності ж Нетліючий використовує Гарраґа. Ба більше, він зайшов у цьому на стільки далеко, що, у шпигунських цілях, обернув тінь капітана на розумну істоту.
 
-In 1479, as part of the scuffle over the true heir to the throne of Neverwinter and the lost crown of Alagondar, the Leviathan was attacked by furious Neverwinter members. The Leviathan was only saved because of intervention from adventurers and Neverember’s top general, General Sabine. Later, that same year, Ashmadai cultists and demons infiltrated the Beached Leviathan and killed one of General Sabine's top advisors. This was ultimately part of a larger plot by a powerful mage named Elden Vargas to use the powers of Asmodeus to his own purposes. 
+В 1479 DR, під час боротьби за трон Невервінтера й втрачену корону Алаґондару, Левіафан був атакований. Його врятували люди Нетліючого: найняті ним авантюристи й його головний полководець Генерал Сабін. Згодом, того ж року, культ Ашмадай (*Ashmadai*) та їх демони проникли на корабель, й вбили одного з радників Сабіна. Це була частина іншої, більшої змови, могутнього мага Елдена Варґаса, з метою здобути й використати сили Асмодея.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Dungeon*, Issue #193, p. 79 -83, (4th Edition)|
 |*Neverwinter Campaign Setting*, p. 154-155, (4th Edition)|
@@ -267,30 +271,30 @@ In 1479, as part of the scuffle over the true heir to the throne of Neverwinter 
 |*Storm Over Neverwinter*, p. 17 - 18, (4th Edition)|
 {.references}
 
-### The Driftwood Tavern
+### Таверна Дріфтвуд
 
-Almost more of a museum than a tavern, the upscale and expensive Driftwood Tavern sits in the northern docks area of Neverwinter. The tavern is one of Neverwinter's older drinking locales — having been in operation since before the Spellplague of 1385 DR. After the cataclysm of 1451 DR, the tavern was used to shelter refugees and served as a makeshift city hall while the city regained some semblance of normalcy.
+Елітна та дорога Таверна Дріфтвуд (*"Driftwood" - "Корчі"*) знаходиться в північній частині міських доків. Нині, більше музей ніж таверна, вона є одним з найстаріших місць де можна випити, адже існувала ще за часів до Чарівної чуми 1385 DR. Після катаклізму 1451 DR вона служила притулком для біженців, а потім, тимчасовою ратушею, доки місто оговтувалось.
 
-The establishment is chock-full of bric-a-brac. Rather than viewing the establishment as cluttered or disorganized, however, many view it as a beautiful tribute to "Old Neverwinter" and a vital part of preserving the city's history. Indeed, many travelers visit the tavern and pay its high prices for drinks and/or lodging simply to enjoy the relics collected at the establishment.
+Заклад переповнено різним антикварним добром. Можна було б, навіть, назвати його неорганізованим, чи захаращеним, та натомість, більшість відвідувачів бачать у ньому "Старий Невервінтер", місце де зберігається історія міста. Багато мандрівників платять високі кошти більшою мірою не аби тут заночувати чи попоїсти, а щоб насолодитись місцевими реліквіями.
 
-Madame Rosene, now roughly 70 years old, runs the establishment. In 1479 DR, she was secretly the leader of the Sons of Alagondar (i.e., the Graycloaks), a rebel group that opposed Lord Neverember's rule in the city. The faction, now, has largely made peace with Neverember's rule, many members even enlisting in Neverwinter's army (feeling it better that they control their own army rather than continuing to let Mintarn mercenaries have power in the city). Madame Rosene is a fount of knowledge regarding the city's history and will happily chat about old times with patrons.
+Закладом керує 70-ти літня мадам Розен. В 1479 DR група повстанців, відомих як Сини Алаґондару виступали проти правління Лорда Нетліючого. Вони розділилися на дві фракції: Нешери, лідером яких був Арлон Блейдшейпер та Сірі Плащі, яких потай очолювала Розен. Нині їх конфлікт із Нетліючим вже в минулому, й багато колишніх повстанців навіть вступили у армію міста (більшою мірою вважаючи, що ліпше самостійно контролювати порядок у Невервінтері, ніж віддавати це в руки найманцям Мінтарна). Мадам Розен, є джерелом знань про історію міста, й з задоволенням побалакає про старі добрі часи.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 52, (5th Edition)|
 |*Neverwinter Campaign Setting*, p. 154-155, (4th Edition)|
 {.references}
 
-### The Tarmalune Trade House
+### Торговий Дім Тармалуну
 
-A trade cartel from the city of Tarmalune has procured a large warehouse complex on the southern docks of Neverwinter. Outside of the docks, a large swath of stalls and booths have been set up with goods for sale. The Tarmalune merchants are trying desperately to establish a solid trade presence in the area, largely to counter their rival traders from the city of Lylorn that have recently established a trade route in nearby Luskan.
+Торговий картель з міста Тармалун, придбав великий складський комплекс у південних доках Невервінтера, а за їх межами, розмістив багато різноманітних крамниць. Тармалунські купці жадають закріпити свій вплив у цьому районі, аби потистояти своїм конкурентам з міста Лилорн, котрі нещодавно розгорнули свій бізнес в сусідньому Лускані
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Натхнення для DM**|
 |---|
-|***No Free Two-Day Shipping***. If your players need something very specific and hard-to-acquire, it would be somewhat reasonable that the Tarmalune's large trade network might be able to procure the item. However, it would *also* be entirely reasonable to expect this favor to come at a high price and to take some time. After all, it takes a long time, a lot of resources, and a lot of risk to sail such a distance in Toril.|
+|***Не буває безкоштовної швидкої доставки***. Якщо ваші гравці хочуть прдбати щось специфічне чи унікальне, очікувано що велика торгова мережа Тармалуна, могла б знайти цей предмет. Але це коштуватиме чималих грошей, та займе якийсь час. Зрештою, подорожі Торилом займають багато часу й ресурсів. Не кажучи вже про ризик.|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Neverwinter Campaign Setting*, p. 147, (4th Edition)|
 {.references}
@@ -301,51 +305,51 @@ A trade cartel from the city of Tarmalune has procured a large warehouse complex
 
 (print-column)
 
-## Tower District
+## Район Веж
 
 ![Shard of the Moon](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
 
-### The Shard of the Moon
+### Уламок Місяця
 
-The Shard of the Moon, formerly called "The Shard of Night", is a floating tower in the Tower District of Neverwinter. The tower has had a storied journey through both the Material Plane and Plane of Shadow.
+Уламок Місяця, що раніше звався "Уламок Ночі", це витаюча вежа, розташована в одноіменному районі міста. Вона пройшла вражаючу подорож крізь Матеріальний та Тіньовий Плани.
 
-The tower began its existence as Moonshadow Hall, over a thousand miles away from Neverwinter, in the city of Yhaunn. In the late 14th century DR, the Shadovar (dwellers of Shadowfell and one of the few remaining factions of Netherese) assaulted the temple and magically tore away one of its towers and sent it to Shadowfell. The Shadovar learned they were able to manifest the tower at arbitrary locations in the mortal realms, and thus placed it strategically floating over Neverwinter during the Spellplague. The Netherese could use a portal in the tower to transport between Xinlenal and Neverwinter. 
+Вежа почала своє існування як частина Залу Тіні Місяця в місті Яунн, що більш ніж за тисячю миль від Невервінтера. В кінці 14-го століття DR, Шадовари (мешканці плану Тінепад, й одні з небагатьох представників Нетерезів, що ще лишилися) напали на храм, вирвали, своєю магією, одну з його веж, й відправили ту в Тінепад. З'ясувавши, що вони можуть матеріалізувати її будь-де у королівствах смертних, вони розмістили її в Невервінтері, під час Чарівної Чуми. Таким чином, Нетерези могли використовувати портал що був у ній, для переміщення між Ксинленалем та Невервінтером.
 
-The tower was darkened black and cast no shadow in the day. This was actually because the temple was magically manipulated to absorb shadow. This shadow, in turn, powered the tower's teleportation devices. The ominous, forboding tower looming overhead was largely avoided by all in Neverwinter as any who ventured inside would never return.
+Вежа була чорною й не відкидала тіні. Це було наслідком магічних маніпуляцій, спрямованих на поглинання тіні, й перетворення її в енергію, що живила телепортаційні пристрої. Невервінтерці, здебільшого, уникали зловісної й лячної вежі, що височіла над головою. Не в останню чергу тому, що всі хто наважувався увійти всередину більше не повертались.
 
 ![Lady Jasmine](Images/LadyJasmine.png =420x){.print-bottom-right}
 
 (print-page)
 
-In 1479 DR, adventurers raided the tower and allowed the priests of Selûne to return to the tower and perform a purification, restoring the tower to its alabaster white appearance. Now, at night when three magical shards are placed within, or below, the floating tower, a stairway of solid moonlight descends from the tower entrance. The priests of Selûne will allow only trusted visitors entrance into the tower. Those particularly-trusted visitors that take a long rest in the tower find that they receive an extra healing surge until they next take a long rest.
+У 1479 DR, група авантюристів відбила вежу, дозволивши жрецям Селуне провести обряд очищення, й повернути їй алебастрово-білий вигляд. Тепер, ночами, якщо розмістити у вежі, чи під нею, три магічних уламки -- з'являться магічні сходи створені з суцільного місячного світла, котрими можна потрапити всередину. Втім, жреці допускають тули лише довірених осіб, але якщо героям вдасться її відвідати й там відпочити -- вони отримають додатковий сплеск зцілення до наступного тривалого відпочинку.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Dungeon*, Issue #193, p. 57 - 78, (4th Edition)|
 |*Neverwinter Campaign Setting*, p. 158, (4th Edition)|
 {.references}
 
-### The Cloak Tower
+### Плащева Вежа
 
-The Cloak Tower is a wizard tower that served as a meeting place and citadel to the Many-Starred Cloak order of wizards. The tower suffered a prolonged occupation by orcs, but has recently returned to the custody of the Order of the Many-Starred Cloaks.
+Плащева Вежа -- магічна споруда, що служила цитаделлю та місцем для зустрічей Ордену чаклунів, що звали себе Багатозоряний Плащ. Довгі роки її було окуповано орками, та нещодавно Орден повернув її в свою власність.
 
-#### Vanishing Fortifications
+#### Зникле Укріплення
 
-The Cloak Tower, and all of the wizards within, disappeared during the Spellplague in 1385 DR. The tower mysteriously returned about six months later — albeit in a new location. However, there were no traces of the wizards that had once resided there. 
+В 1385 DR, під час Чарівної Чуми, вежа й усі хто знаходилися всередині -- щезли. Через пів року, загадковим чином вона повернулась у Невервінтер, хоч і на інше місце. Невідомо, що стало з чаклунами -- від них не лишилось і сліду.
 
-Naturally, once the tower returned to Neverwinter, it didn't take long for thieves to attempt looting the tower. The tower, after all, was thought to contain a wondrous magical device found in a Netherese ruin called "Halavar's Universal Pantograph". The device could reportedly duplicate metal objects that were "the size of a large throne or smaller" — this included coins! However, all the thieves soon perished in the tower, leaving a sole survivor to recount the tales of what was seen.
+Ходили чутки, що в Плащевій Вежі, все ще знаходиться магічний пристрій під назвою "Універсальний Фантограф Галавара" знайдений в нетерезьких руїнах. Повідомлялося, що він міг дублювати будь-які металеві предмети, чий розмір був "як великий трон, або менше", що також включало монети. Тож не дивно, що одразу по поверненні, туди вторглася група мародерів.
 
-The thieves didn't locate the magical device, and they saw neither wizards nor their bodies. The colorful cloaks mysteriously remained, however, hanging on the pegs where they were left. Suddenly, the colorful cloaks came to life and smothered the thieves to death, save the sole survivor.
+Вони не знайшли ні магічний пристрій, ні чаклунів, ні тіл. Лиш кольорові плащі, загадково звисали із вішаків. Та раптом, вони ожили, напали на непроханих гостей, й задушили їх. Врятувався лише один, який і оповів про побачене.
 
-#### Orc Infestation
+#### Вторгнення Орків
 
-The Many-Arrows orc tribe invaded the tower and were able to claim it. The Neverwinter residents, assuming the tower was warded by some leftover magical defenses left by the Many-Starred Cloak wizards, thought the orcs too would soon perish in the tower. The orcs, however, seemingly did not meet any resistance in the tower and were able to hold it.
+Багатостріли -- плем'я орків, які проникли у вежу й заволоділи нею. Містяни припускали що залишки магічного захисту Багатозоряного Плаща, переб'ють їх як і мародерів. Але ті, здавалося, не зустріли взагалі жодного опору, й змогли втримати вежу.
 
-Lord Neverember tolerated the orcs in the location largely because he had no better option. The tower was actually one of the most fortified locations in the city, which left Neverember simply biding his time until he could figure out a way to rid the city of the orcs. Luckily, the Many-Arrow orcs decided to vacate the tower and move east with to help their brethren battle the dwarves.
+Лорд Нетліючий мирився з їх перебуванням у цьому місці. В основному тому, що не міг з цим нічого вдіяти: вежа була однією з найбільш укріплених споруд міста, через що йому лишалося тільки чекати та сподіватись на слушну нагоду. На щастя, Багатостріли самі її звільнили, так як вирушили на схід, на допомогу своїм побратимам у битві із дворфами.
 
-The Order of the Many-Starred Cloaks has once again become active with some ranking members even working with Lord Neverember to secure the region. It is presumed that custody of the Cloak Tower has returned to the Many-Starred Cloaks.
+Згодом знову активізувався Багатозоряний Плащ. Окремі члени Ордену співпрацювали з Лордом Нетліючим, сприяючи безпеці у регіоні. Передбачається, що нині Плащева Вежа знову належить їм.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 51 (5th Edition)|
 |*Storm Lord's Wrath*, sec. *House of Thalivar* (5th Edition)|
@@ -361,40 +365,40 @@ The Order of the Many-Starred Cloaks has once again become active with some rank
 
 ![The Fallen Tower](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
 
-### The Fallen Tower
+### Повалена Вежа
 
-The Fallen Tower is a tavern constructed in the ruins of a wizard's tower. The tavern features a rather unique and macabre nightly spectacle that has kept it a popular drinking location for well over a century.
+Повалена Вежа -- це таверна збудована на руїнах чаклунської вежі. Вона має унікальну нічну "виставу", яка робить це місце популярим вже понад сто років.
 
-#### The Tower's History
+#### Історія Вежі
 
-Decades before the Spellplague, the tower was owned by a powerful wizard named Llomnauvel "Firehands" Oloadhin. The Arcane Brotherhood coveted Oloadhin's accumulation of magical items. One night, the Brotherhood violently attacked the tower in an attempt to steal the magical goods and capture Oloadhin. A spectacular magical battle raged throughout the tower. Oloadhin had anticipated the attack and rigged his tower with all manner of magical traps, including maniacal spells that turned the trespassers into lowly sea creatures. However, Oloadhin's traps were ultimately unable to stop the raid. Rather than let the Arcane Brotherhood take his tower and the contents within, the unhinged Oloadhin triggered a final massive spell that destroyed the tower. As the tower fell in a magical blaze, everyone inside perished (including Oloadhin himself).
+За кілька десятиліть до Чарівної Чуми, вежа належала чаклуну на ім'я Лломнавель Олодхін, на прізвисько "Вогнерукий" (*Llomnauvel "Firehands" Oloadhin*). Він тримав у себе багато магічних дрібниць, на котрі кинули оком Братство Аркейн. Однієї ночі, Братство атакувало вежу, з метою пограбувати та захопити Олодхіна. Втім, він передбачив можливе вторгнення, й встановив у своїй оселі багато різних магічних пасток (як от чари, що перетворювали порушників на морських істот). Однак, йому не вдалось зупинити напад. Вежею прокотилась жорстока баталія, в ході котрої, не бажаючи віддавати вежу й своє добро, Олодхін використав потужну магію, яка зруйнувала вежу. Її, як і всіх хто був всередині (включно з господарем), поглинуло магічне полум'я.
 
 (print-page)
 
-#### The Nightly Show
+#### Нічна Вистава
 
-Phantasmic remnants of the tower's destruction remain at the location. Every night, at the exact time Llomnauvel triggered the explosion that destroyed the tower, visions of those final moments appear at the ruined base of the tower. These silent magical projections depict Brotherhood mages, ablaze, falling helplessly to their deaths. This is soon followed by the Brotherhood's Overwizard falling similarly while his limbs transform into eels.
+Магія залишила відбиток на місці, де була Олодхінова вежа. Від тоді, кожної ночі, рівно в той самий час, коли він викликав вибух, на цьому місці з'являється мовчазне магічне видіння, що зображує останні миті життя нападників. Як ті палають, падають та розбиваються. Закриває видовище Надчарівник Братства, падіння якого супроводжується трансформацією його кінцівок у вугрів.
 
-This seemingly harmless magical vision both horrified and fascinated onlookers. Naturally, some entrepreneurial individuals managed to turn this tragic spectacle into entertainment for locals and travelers alike. The base of the tower was renovated into a tavern. The area of the spectacle was railed off, and tables were placed all around it so that patrons may watch the "show" as they sipped on their drinks. Sadly, the tavern eventually gained a reputation for mediocre, overpriced drinks and a steep cover charge. That, combined with the multiple catastrophes that hit Neverwinter in the 15th century DR, eventually left the tavern abandoned.
+Ця, здавалося б, нешкідлива магічна проекція, водночас жахала та захоплювала народ. Тож не дивно що знайшлись ті, хто зумів перетворити це трагічне видовище на розвагу. Вежу відбудували в таверну. Область видива відгородили розставивши навколо неї столи, таким чином, щоб відвідувачі, потягуючи свої напої, могли спостерігати "виставу". І хоча це було цікаве місце, як для місцевих, так і для гостей міста, з часом таверна заслужила репутацію місця з поганим пійлом й завищеними цінами. Це, в поєднанні з численними катастрофами, що вразили Невервінтер в 15-му столітті DR, її розорило, залишивши ту на довгі роки покинутою.
 
 ![Vagdru One-Ear](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
 
 (print-column)
 
-#### Under New Management
+#### Під Новим Управлінням
 
-The Many-Arrow tribe discovered and started to loot the tavern and its vast wine stores when they invaded Neverwinter's Tower District. One night, in the midst of their looting and revelry at the Fallen Tower, the phantasmic images appeared and scared the orcs out of the building. The orcs eventually mustered their courage and, once realizing the phantom images were harmless, returned to the building.
+Коли плем'я Багатострілів проникло у Район Веж, вони розграбували таверну. Якоїсь ночі, коли ті розпивали чергову бочку вина, прямо посеред гулянки з'явилося видиво, що до смерті налякало орків, вигнавши тих із будівлі. Втім, набравшись сміливості, згодом вони зрозуміли, що проекції їм ніяк не нашкодять, й повернулися в Повалену Вежу.
 
-An enterprising single-eared orc named "Vagdru One-Ear" restored the site to being a functioning tavern. By way of a mutual agreement between Lord Neverember and the leadership of the Many-Arrow tribe, the tavern now serves as a neutral ground between the orcs and other races that occupy the city. All are welcome to enjoy the tavern's offerings provided they start no trouble. Any troublemakers that violate this truce are likely to face the immediate wrath of the tavern's regular clientele. The tavern's current offerings, however, are "humble" and priced accordingly. The wine and ale are inexpensive but satisfactory. Raw meat, of an unknown source, is served up to be prepared over an open cook fire.
+Завзятий одновухий орк, на ім'я Ваґдру Одне-Вухо, взяв її в свої руки, відкривши таверну вдруге. Лорд Нетліючий та керівництво Багатострілих заключили взаємну угоду, відповідно до якої, Повалена Вежа є нейтральною територією між орками й іншими расами міста. Від тоді кожен охочий може насолодитися скромними пропозиціями таверни. А будь-який порушник миру, зіштовхнеться із гнівом постійних відвідувачів. В корчмі подають недорогі, але задовільні вино та ель, а невідомого походження м'ясо, готують на відкритому полум'ї. Імовірно, коли Багатостріли покинули місто, Ваґдру залишився в Невервінтері.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Натхнення для DM**|
 |---|
-|***Technical Difficulties***. Something goes wrong, and the previously-benign nightly magical visions of the falling mages become real; the flames of the falling mages scorch patrons. Adventurers must contain the Fallen Towers magic lest the tavern's business be ruined.|
-|***Diplomatic Immunity***. The Fallen Tower is the perfect place to have a parlay between adventurers and some of the less-respected races of Faerûn.|
-|***The Other White Meat***. Vagdru One-Ear tasks the adventurers with heading out into the wilds to slay some gross-looking, level-appropriate monsters (e.g., [Giant Spiders](/monster/giant-spider){.red} or a [Sibriex](/monster/sibriex){.red}!) and return their corpses as proof of their accomplishments. To the adventurers' horror, he serves the monsters' meat to patrons for that night's dinner.|
+|***Технічні Збої***. Щось йде не так, і, раніше безпечні, нічні видива, раптом стають реальними, а магічне полум'я обпікає відвідувачів. Ваґдру просить авантюристів знайти спосіб втримати магію, щоб його бізнес не розвалився.|
+|***Дипломатична Недоторканність***. Повалена Вежа -- ідеальне місце для зустрічі гравців з менш шанованими й небезпечними расами Фейруну|
+|***Інше Біле М'ясо***. Ваґдру дає завдання на вбивство рівневих монстрів (скажімо [Гіганських Павуків](/monster/giant-spider){.red}, або [Сибриксів](/monster/sibriex){.red}), й принести їх туші як доказ. До жаху авантюристів, ці туші підуть на м'ясо|
 {.dmidea}
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Neverwinter Campaign Setting*, p. 157, (4th Edition)|
 |*Volo's Guide to the North*, p. 135 - 138 (2nd Edition)|
@@ -403,57 +407,56 @@ An enterprising single-eared orc named "Vagdru One-Ear" restored the site to bei
 
 (print-page)
 
-## Bluelake District
+## Район Синього Озера
 
-The Bluelake District, formerly the "Blacklake District", was home to many of the noble estates in Neverwinter. Most of the estates fared well against the cataclysm thanks to their sturdy construction. However, many were left abandoned after their owners perished in the cataclysm. The abandoned buildings proved fertile ground for the seedy underbelly of the city to gain a foothold. 
+Район Синього Озера (*Bluelake*), що в минулому звався Районом Чорного Озера (*Blacklake*), був домом для більшості дворян Невервінтера. Після катаклізму, багато хто з них загинув, залишивши пустувати свої маєтки, котрі, завдяки своїй міцній конструкції, більшою мірою встояли. З часом це послужило хорошим підґрутням для того, щоб в цьому районі закріпилося багато підпільних та не законних організацій.
 
-Lord Neverember and his mercenaries saw great opportunity in resettling the overgrown estates in the district. However, when they attempted to do so, they found themselves attacked by a variety of factions. Seemingly every shadow faction of the city, from the Sons of Alagondar to the Dead Rats, had taken up residence in the area. It became extremely dangerous to traverse this section of the city. In recent years, however, it has improved dramatically.
+Відновлення занедбаних маєтків, здалось Лорду Нетліючому, хорошою можливістю, але варто було йому туди сунутися, як проти нього та його найманців виступили, немов, усі злочинні фракції міста.  Від Синів Алаґодара, до Мертвих Щурів, здавалося кожен хто мав проблеми з законом, перебрались у цей район. Через це, відвідувати Синє Озеро в ті роки було надзвичайно небезпечно. Про те нині, ситуація значно поліпшилася.
 
-### Bluelake
+### Озеро
 
-Bluelake, formerly called "Blacklake", is a lake that sits in the center of its namesake district. The lake is used for boating activities at times. However, in the summer, the lake's level decreases dramatically and becomes somewhat more of a swamp.
+В минулому Синє Озеро, звали "Чорним". Воно знаходиться в центрі, названого в його честь, району. Влітку тутешній рівень води сильно опускається, демонструючи болотисте дно, але коли її достатньо, тут, іноді, навіть катаються на човнах.
 
-The lake became particularly vile and sludge-filled after the eruption of Mount Hotenow, which filled the lake with ash. Lord Neverember made dredging and restoring the lake one of his priorities. This effort seems to have been successful, and it was renamed "Bluelake".
+Після виверження Хотеноу, через осівший попіл, озеро стало ще більш забрудненим. Його відновлення Лорд Нетліючий зробив однією зі своїх цілей, й після його поглиблення та очищення, "Чорне Озеро" перейменували на "Синє".
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Neverwinter Campaign Setting*, p. 153 - 154, (4th Edition)|
 |*Lost Crown of Neverwinter*, p. 33, (4th Edition)|
 {.references}
 
-### House of a Thousand Faces
+### Будинок Тисячі Лиць
 
-The House of a Thousand Faces is a comfortable tavern in the Bluelake region of Neverwinter. The building was once a boutique clothing store for the rich nobles of the area and is full of mirrors and mannequins displaying antiquated clothing styles. The mannequins and their reflection are what give the building its name of a "Thousand Faces". It features lush and comfortable couches where citizens sit and converse happily. 
+Будинок Тисячі Лиць -- це комфортабельна таверна в Районі Синього Озера, з пишними та зручними меблями, де невервінтерці часто люблять приємно потеревенити. Споруда колись служила крамницею одягу для заможних містян, й до нині повна дзеркал та манекенів, на яких досі красуються, уже застарілі стилі одягу. Власне манекени та їх відзеркалення й подарували назву "Тисяча Лиць".
 
-The basement of the tavern is the secret meeting location for the Neverwinter chapter of the Harpers. The Harpers, generally an organization that stands for preserving history and all things "good", have a particularly complicated history in Neverwinter. The reputation of the local Neverwinter chapter of the Harpers was damaged when one of its high-ranking members was caught acting as a sort of double-agent between Lord Neverember and the Sons of Alagondar (who opposed Neverember's rule).
+Її підвал служить таємним місцем для зустрічі місцевих Арфістів. Арфісти, це, як правило, організація що виступає "за все хороше", й за збереження історії. Вона має особливо складну історію в Невервінтері, т.я. їх репутація в місті була підірвана, коли один з її посадовців виявився подвійним агентом в посередництві між Лордом Нетліючим та Синами Алаґондару (котрі виступали проти його правління).
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Neverwinter Campaign Setting*, p. 153 - 154, (4th Edition)|
 {.references}
 
-## The Chasm District
+## Район Прірви
 
-### The Sealed Chasm
+### Запечатана Прірва
 
-When Mount Hotenow erupted, a giant canyon into a Spellplague-laden section of the Underdark was torn open in the southeastern quarter of Neverwinter. This portion of the city was essentially leveled in the process. From this giant chasm all manner of unnatural beasts emerged. Any that approached the chasm would experience anxiety and other unpleasant mental effects. A wall was erected around the region to contain the horrors that arose from the chasm.
+Під час виверження Хотеноу, в південно-східній частині міста виник величезний пролом, прямо в Підморок, де ще з часів Чарівної Чуми, залишились заражені землі. З цієї прірви, назовню, почали вилазити різні надприродні почвари, для захисту від яких, навколо регіону було збудовано величезну стіну. Кожен, хто її перетинав й наближався до урвища, відчував тривогу, та інші неприємні для психіки наслідки.
 
-With immense effort and expense, Neverember was able to have the chasm sealed shut with powerful magic. The chasm sealed, the district was left as not much more than leveled ruins. The area was made free for the taking. Anyone who wanted to make a settlement in the region was free to claim the land and do so. Bold settlers, particularly those too poor to do so elsewhere, are flocking to the Chasm District to build a new life for themselves. 
+Не аби якими зусиллями, й чималим коштом, але з допомогою потужної магії, Нетліючий зумів її запечатати. І хоча проблему було вирішено, сам район лишився лежати в руїнах, тож його визнали вільним для обжитку. Будь-хто міг тут поселитися, й претендувати на земельну власність. Й сміливі поселенці, особливо надто бідні, щоб оселитись деінде, стікаються до Району Прірви, щоб збудувати собі тут нове життя.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Sword Coast Adventurer's Guide*, p. 52 - 53, (5th Edition)|
 |*Neverwinter Campaign Setting*, p. 159 - 164, (4th Edition)|
 {.references}
 
-## Neverdeath
+## Невердеф
 
-Neverdeath is Neverwinter's graveyard. It is divided into two major sections. The Pauper's section, to the southwest, contains rows upon rows of humble graves. Many are unmarked with nameless souls that perished in one of Neverwinter's numerous tragedies and cataclysms. The other section contains more elaborate mausoleums where nobility and wealthy were laid to rest.
+Невердеф (*Neverdeath*) -- міське кладовище. Воно розділене на дві основні секції. Південно-західна, Жебрача секція, в основному наповнена рядами скромних безіменних могил тих, хто гинув в численних катаклізмах які спіткали Невервінтер. В іншій секції знаходяться складні мавзолеї, де спочивала шляхта й багатії.
 
-Both sections of Neverdeath were strongly affected by the Spellplague. In addition to physically altering the landscape of the graveyard, the corpses now spring back to life and attack visitors. Tall walls protect the horrors of the graveyard from attacking the city, and Neverwinter's residents know to stay well away from the horrors that await within. The people of Neverwinter now burn their dead.
+Обидві секції вразила Чарівна Чума. Крім фізичної зміни місцевого ландшафту, поховані тут колись трупи тепер повертаються до життя й атакують відвідувачів. Й хоча високі стіни та охорона захищають від них містян, невервінтерці стараються триматись подалі від кладовища. Нині мешканці Невервінтера, кремують померлих.
 
-
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
 |*Neverwinter Campaign Setting*, p. 145, (4th Edition)|
 {.references .screen-only}

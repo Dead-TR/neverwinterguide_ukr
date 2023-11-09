@@ -1,41 +1,41 @@
 ---
-name: History of Neverwinter
+name: Історія Невервінтера
 slug: history-of-neverwinter
 order: 50
 ---
 
-# An Abridged History of Neverwinter
+# Скорочена історія Невервінтера
 
-***-10 DR***. Lord Halueth Never, a sun elf, settles the area in his conquest of Illusk. Construction of Castle Never begins. {.no-fancy}
+***-10 DR***. Під час завоювання Іллуску, Лорд Галует Невер осідає на цих землях. Починається будівництво замку Невер.{.no-fancy}
 
-***87 DR***. The settlement of "Eigersstor" is founded around Castle Never. A later translation to Chondathan would name this settlement "Neverwinter".
+***87 DR***. Навколо замку Невер виникає поселення під назвою "Ейґерсстор" (*Eigersstor*). Пізніше, в перекладі на Хондатан, воно буде назване "Невервінтер".
 
-***457 DR***. The School of Wizardry is founded in Neverwinter by the Wizards Aganazzar, Ilyykur, Presper, and Grimwald (collectively known as the covenant). 
+***457 DR***. Четверо чаклунів, відомих як коаліція (*covenant*), Аґаназар, Ілійкур, Преспер, та Ґрімвальд, засновують в Невервінтері Школу Магії.
 
-***955 DR***. Red Wizards of Thay aid arc hordes in escaping the wizards of Neverwinter starting the "Orcgates Affair" and a centuries-long feud between Thay and Neverwinter.
+***955 DR***. Коли люди вже майже здолали орків в багатовіковій війні, Червоні Чаклуни Тея, врятували тих, телепортувавши орду на південь. Ця подія закарбувалась в історії під назвою [Афера Орочих Ґрат](https://www.worldanvil.com/w/neverwinter-circa-mid-1300s-retronomad/a/orcgates-affair-militaryConflict) й стала початком ворожнечі між Невервінтером й Теєм.
 
-***1081 DR***. Red Wizards slay Aganazzar and destroy the School of Wizardry.
+***1081 DR***. Червоні Чаклуни вбивають Аґаназара, й знищують Школу Магії.
 
-***1329 DR***. Nasher Alagondar becomes king of Neverwinter.
+***1329 DR***. Нешер Алаґондар стає королем Невервінтера.
 
-***1372 DR***. An illness befalls Neverwinter that kills most of its residents within ten days of onset. It becomes known as the "Wailing Death".
+***1372 DR***. Місто охопила хвороба, що за декаду викосила більшість містян. Цю подію назвали "Плачуча Смерть".
 
-***1379 DR***. The Shadovar attack Moonshadow Hall and send one of its towers to Shadowfell. In a few years it will appear in Neverwinter as the floating Shard of Night.
+***1379 DR***. Шадовари атакували Залу Тіні Місяця, й відправили одну й її веж в Тінепад. Кілька років по тому, ця вежа з'явилась у Невервінтері під назвою Уламок Ночі.
 
-***1385 DR***. The Spellplague strikes Toril. This creates the floating earthmotes on which some of Neverwinter's landmarks reside, sends the Cloak Tower to the Far Realm, causes the rise of undead in the Neverdeath graveyard, allows the Netherese to transport the Shard of Night to Neverwinter, and corrupts the Underdark directly beneath Neverwinter (which gets exposed as the Chasm later).
+***1385 DR***. Торил вразила Чарівна Чума, що породило у міті витаючі острови, перемістило Плащеву Вежу в Далекі Королівства, підняло нежить у Невердефі, дозволило нетерезам перемістити Уламок Ночі у Невервінтер, й викликало хаос в Підморку під містом (прямо там, де у майбутньому виникне Прірва).
 
-***1451 DR***. An adventuring party in Gauntlgrym caused the primordial Maegera to fly into a fit of rage and lay waste to much of the surrounding area. This included causing Mount Hotenow to erupt, opening a massive chasm in the south-eastern quarter of Neverwinter and laying ruin to much of Castle Never (killing most of the castle's inhabitants as well). This even is often simply referred to as "the cataclysm."
+***1451 DR***. В Ґонтльґримі, група авантюристів порушили спокій первородного Меґера, що призвело до спустошення околиць, виверження Хотеноу, появи Прірви у Невервінтері, руйнації замку Невер, й великої кількості втрат. Всі ті події згадують просто як "катаклізм".
 
-***1467 DR***. Still reeling from the destruction of the cataclysm, Dagult Neverember hires Mintarn mercenaries to aid him in bringing order back to Neverwinter. He calls this the "New Neverwinter" movement.
+***1467 DR***. Все ще оговтуючись від катаклізму, Даґульт Нетліючий оплачує найманців Мінтарна, щоб ті допомогли навести порядок у місті. Він називає це рухом "Новий Невервінтер"
 
-***1474 DR***. The Sons of Alagondar are formed as a nationalist group opposed to Dagult Neverember's rule of Neverwinter. They have two factions, The Nashers and The Graycloaks. The Nashers are more violent in their attempt to remove Neverember, whereas the Graycloaks tend to use politics and subterfuge to depose Neverember.
+***1474 DR***. Виникає націоналістичне угрупування Сини Алоґондара, спрямоване проти правління Даґульта Нетліючого. Всередині них існує дві фракції: Нешери та Сірі Плащі. Перші є більш жорстокими в своїх спробах усунути Нетліючого, тоді як Плащі використовують для цього політичний тиск й підкуп.
 
-***1479 DR***. Seldra Tylmarande is given a replica of the Crown of Neverwinter. She uses the fake crown, along with a male disguise, to try to make claim to the throne of Neverwinter and depose Neverember. She is defeated and the plot fails. Neverember also claims he is a legitimate heir to the throne but is unable to find a real crown and prove it.
+***1479 DR***. Сельдра Тильмаран отримує репліку Корони Невервінтера. Вона маскується під чоловіка, й використовує фальшиву корону, аби претендувати на трон міста. Спроба провалюється, а Нетліючий стверджує що він є законним спадкоємцем престолу. Але, він не знає де знаходиться справжня корона, й не може надати докази свого походження.
 
-***1479 DR***. Selûne intervenes in mortal affairs and sends shards to Toril that allow Lady Jasmine and other selûnite priestesses (with the help of adventurers) to cleanse the Shard of Night into the Shard of the Moon.
+***1479 DR***. Селуне втручається в справи смертних. Вона відправляє на Торил уламки, що довзволяють Лежі Жасмін та іншим жрецям-селунітам (не без допомоги авантюристів) очистити Уламок Ночі, перетворивши його на Уламок Місяця.
 
-***1479 DR***. Elden Vargas, a powerful War Wizard from Cormyr, sends a good portion of Neverwinter's populace into madness in a plot to rescue his wife that is being held in Helm's Hold by Ashmadai cultists attempt to exploit the mage. The conflict results in demons and cultists attacking the Beached Leviathan.
+***1479 DR***. Ельден Варґас, могутній Воїн-Чаклун із Кормиру, намагаючись врятувати свою дружину, зводить з розуму значну частину мешканців Невервінтера. Її тримає в полоні Культ Ашмадай, який хоче скористатися його силами. В ході конфлікту, культ, разом із демонами, напали на Пришвартований Левіафан.
 
-***1486 DR***. The Chasm is sealed, but at great expense to the city of Neverwinter.
+***1486 DR***. Прірву було запечатано, але це коштувало місту чималих коштів.
 
-***1489 DR***. Lord Neverember is ousted as Open Lord of Waterdeep and can focus his attention more-solely on Neverwinter.
+***1489 DR***. Даґульта Нетліючого, знімають з посади Публічного Лорда Глибоководдя, завдяки чому, той може сфокусуватися на Невервінтері.

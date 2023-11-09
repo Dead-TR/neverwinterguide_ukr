@@ -1,5 +1,5 @@
 ---
-name: Neverwinter Map
+name: Мапа Невервінтера
 slug: neverwinter-map-page
 order: 20
 include-in: print

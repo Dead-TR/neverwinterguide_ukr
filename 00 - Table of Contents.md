@@ -9,13 +9,13 @@ hide-footer-text: true
 
 # Table of Contents
 
-- [Introduction](introduction) {.part}
-- [About this Guide](about-this-guide)
-- [Locations of Neverwinter](locations-of-neverwinter) {.part}
-- [Castle Never](castle-never) {.category}
-- [Protector's Enclave](protectors-enclave) {.category}
-- [The Hall of Justice](the-hall-of-justice)
-- [The House of Knowledge](the-house-of-knowledge)
+- [Вступ](introduction) {.part}
+- [Про цей посібник](про-цей-посібник)
+- [Локації Невервінтера](locations-of-neverwinter) {.part}
+- [Замок Невер](замок-невер) {.category}
+- [Протекторський Анклав](protectors-enclave) {.category}
+- [Зал Правосуддя](the-hall-of-justice)
+- [Дім Знань](the-house-of-knowledge)
 - [The Floating Earthmotes](the-floating-earthmotes) {.category}
 - [The Moonstone Mask](the-moonstone-mask)
 - [Pirates' Skyhold](pirates-skyhold)

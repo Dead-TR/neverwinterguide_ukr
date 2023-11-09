@@ -5,107 +5,106 @@ order: 10
 module-pagebreaks: h1, h2
 ---
 
-> *A Dungeon Master's Guide to Neverwinter* is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. {.neutral}
+> *Dungeon Master's Guide to Neverwinter є неофіційним вмістом фанатів, дозволеним відповідно до Політики щодо вмісту фанатів. Не схвалено/підтримано Wizards. Частина використаних матеріалів є власністю Wizards of the Coast. © Wizards of the Coast LLC. {.neutral}
 
-# Introduction
+# Вступ
 
-Welcome, Dungeon Masters! If you're looking at this guide, you're undoubtedly looking for information or resources related to the captivatingly magical city of Neverwinter. This guide was created to provide DMs with the necessary information about Neverwinter as it exists for the Fifth Edition of Dungeons & Dragons, particularly in the early 1490s DR. {.no-fancy}
+Ласкаво просимо, Володарі Підземель! Якщо ви переглядаєте цей посібник, ви, безсумнівно, шукаєте інформацію чи ресурси, пов’язані з захоплюючим чарівним містом Невервінтер. Цей посібник було створено, щоб надати DM необхідну інформацію про Невервінтер, яка існує для п’ятого видання Dungeons & Dragons, зокрема на початку 1490-х років DR. {.no-fancy}
 
-Many Dungeon Masters have started their campaigns, and often their role as a DM, using either of the wonderful [Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop) or [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip) starter adventures. While these adventures provide plenty to do in the small town of Phandalin and its surrounding areas, they're also placed *temptingly* close to the city of Neverwinter on the Sword Coast. It's not uncommon for players to ask to visit the city of Neverwinter. This can feel overwhelmingly difficult for unprepared DMs to manage (especially newer DMs). Not a tremendous amount has been described about Neverwinter as it exists in the Fifth Edition of D&D, so a diligent DM might feel compelled to scour through loads of out-of-print material. This guide attempts to consolidate much of that information and help all seeking to venture into Neverwinter.
+Багато Володарів Підземель (DM) розпочали свої кампанії, використовуючи одну зі стартових пригод [Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop) або [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip). Незважаючи на те, що ці пригоди надають багато можливостей в маленькому містечку Фандалін та його околицях, вони також, дуже спокусливо, включають у себе місто Невервінтер (Neverwinter) на Узбережжі Меча. Часто, коли гравці просять відвідати Невервінтер. Для непідготовлених DM (особливо для новачків) це може здатися надзвичайно складним завданням. Про Невервінтер, за подій п'ятого видання, існує не так багато матеріалів, тому старанний DM може відчути потребу перекопати велику кількість старих текстів. Цей посібник намагається зосередити велику частину цієї інформації та допомогти всім, хто хоче відвідати Невервінтер.
 
-## About this Guide
+## Про цей посібник
 
-This guide has two primary goals: 
-1. To provide accurate information about Neverwinter as it comes from official Dungeons & Dragons Source Books and Adventures. Information that is *not* from such a source will be clearly marked. 
-2. To provide Dungeon Masters with a set of tools and ideas to help them craft an adventure should their table decide to wander into Neverwinter.
+Головні цілі цього посібника:
+1. Надати точну інформацію про Невервінтер, в тому вигляді, в якому вона існує в офіційних джерелах Dungeons & Dragons. Інформація яка *не* із таких джерел, буде чітко позначена.
+2. Надати DM набір інструментів та ідей, які допоможуть створити пригоду, якщо гравці вирішать відвідати Невервінтер.
 
-A secondary goal of this guide is to be compatible with the wealth of existing official adventures out there. In particular, the homebrew ideas and shops are crafted with both of the two starting adventures, [Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop) and [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip), in mind.
+Також метою посібника було бути сумісним з існуючими пригодами. Зокрема ідеї та магазини створено з урахуванням стартових наборів: [Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop) та [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip).
 
-### Spoilers
+### Спойлери
 
-This is a guide for Dungeon Masters and contains a few spoilers to the events in other D&D 5th Edition adventures. In particular, some of the events of Lost Mine of Phandelver, Dragon of Icespire Peak, Storm King's Thunder, and Tyranny of Dragons/Rise of Tiamat are mentioned in this guide. If you are planning to be a player in any of those adventures, you may want to avoid this guide. If you are a player, and your Dungeon Master is going to run you through a Neverwinter setting, you may also want to avoid this guide.
+Цей посібник містить кілька спойлерів про події в інших пригодах D&D 5-го Видання. Зокрема, тут згадуються деякі події із «Lost Mine of Phandelver», «Dragon of Icespire Peak»,«Storm King's Thunder» та «Tyranny of Dragons/Rise of Tiamat». Якщо ви плануєте взяти участь у будь-якій із цих пригод, можливо, варто уникати цього посібника. Якщо ви гравець і ваш DM збирається провести пригоду у Невервінтері, вам також варто уникнути цього посібника.
 
-### The "Locations" Sections
+### Розділ "Локації"
 
-The first part of this guide details the official locations of Neverwinter. This section has a wealth of resources for any campaign set in Neverwinter. We have an amazing high resolution map of the city itself and beautiful artwork for many of the city's points of interest. Be sure to check [Appendix B](point-of-interest-cards-page) for cards that list prices for goods and services, and much more. Everything in this section is from official material (save the "Dungeon Masters' Inspiration" section).
+У першій частині посібника детально описано офіційні локації міста. У цьому розділі є безліч ресурсів аби провести кампанію в Невервінтері. У нас є дивовижна карта міста у високій роздільній здатності й чудові ілюстрації для багатьох визначних місць. Не пропустіть [Додаток Б](point-of-interest-cards-page), щоб знайти картки з цінами на товари, послуги й інше. Усе в цьому розділі взято з офіційних матеріалів (за винятком розділу «Натхнення DM»).
 
-Later in the guide, there is a "Homebrew Locations" section. These locations were crafted just for this guide, and are ultimately created to be utilitarian shops and locales that players might expect to exist in a city the size of Neverwinter. As these are entirely non-canonical, feel free to change them to suit your whims! [Shop cards](point-of-interest-cards-page) are provided for these as well.
+Далі іде розділ «Хоумбрю Локації». Це локації, які було розроблено спеціально для цього посібника. Це крамниці й місця, які гравці можуть очікувати в місті розміром з Невервінтер. Оскільки вони абсолютно неканонічні, сміливо змінюйте їх у власних цілях. [Картки крамниць](point-of-interest-cards-page) також надано.
 
-### The "Quick Adventures" Section
+### Розділ "Швидкі Пригоди"
 
-In addition to details about Neverwinter's locations and history, this guide provides small "adventures" that a DM might use to give their players something to do while in the city. These adventures are meant to be small, with only one or two encounters, and not require a long-term commitment or storyline.
+В доповнення до історії й локацій Невервінтера, цей посібник містить невеликі «пригоди», якими DM може скористатися, щоб дати своїм гравцям чим зайнятися під час перебування в місті. Вони маленькі, з одним чи двома енкаунтерами, й не зобов'язані втягувати гравців у довготривалу історію.
 
-To run one of these Quick Adventures, Dungeon Masters would be expected to have the D&D fifth edition core rulebooks (i.e., the [Player's Handbook](https://dnd.wizards.com/products/rpg_playershandbook), [Dungeon Master's Guide](https://dnd.wizards.com/products/dungeon-masters-guide), and [Monster Manual](https://dnd.wizards.com/products/monster-manual)).
+Для їх запуску, рекомендується щоб DM був ознайомлений з правилами D&D п'ятого видання ([Player's Handbook](https://dnd.wizards.com/products/rpg_playershandbook), [Dungeon Master's Guide](https://dnd.wizards.com/products/dungeon-masters-guide), та [Monster Manual](https://dnd.wizards.com/products/monster-manual))
 
-> When text appears in a box such as this one, it means that it is descriptive text that should be read aloud, or paraphrased, to the players. It will be used to describe scenes or provide scripted dialogue from non-player characters. {.read}
+> Текст в такому полі, означає, що перед вами інформація яку можна прочитати вголос, або перефразувати гравцями. Це використовуватиметься для опису сцен або діалогів із персонажами. {.read}
 
 (print-page)
 
-### Dungeon Masters' Inspiration
+### Натхнення для DM
 
-Throughout this guide, ideas are suggested on how a Dungeon Master might choose to use some particular location or information in their own campaign. It's totally normal to feel paralyzed by the scope of running your campaign through a big city, so consider using a few of these ideas as seeds for adventure and intrigue.
+У цьому посібнику пропонуються ідеї щодо того, як DM може використовувати локації й інформацію у власній кампанії. Нормально губитися через масштаби кампанії у великому місті, тож подумайте про те, щоб використати кілька з цих ідей як зародок для пригод та інтриг.
+Ці ідеї буде позначено у такому вікні:
 
-These DM Ideas will be marked in a box that looks like the one below:
-
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Натхнення для DM**|
 |---|
-|***Idea 1***. This would be the first idea.|
-|***Idea 2***. This would be the second idea.|
+|***Ідея 1***. Це була б перша ідея.|
+|***Ідея 2***. Це була б друга.|
 {.dmidea}
 
-### Source Reading Material
+### Посилання на джерела
 
-This guide aims to be diligent in achieving accuracy with officially published source material. You may see this book symbol below with references on where you may go to find further reading on a particular location or topic.
+Метою посібника, є точність з офіційно опублікованими матеріалами. Нижче під символом книги, знаходяться посилання на те, куди ви можете звернутися, щоб знайти додаткову інформацію з певного місця чи теми.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Детальніше**|
 |---|
-|*Example Reference 1*, p. XXX - XXX, (Nth Edition)|
-|*Example Reference 2*, p. XXX - XXX, (Nth Edition)|
+|*Приклад джерела 1*, p. XXX - XXX, (Nth Edition)|
+|*Приклад джерела 2*, p. XXX - XXX, (Nth Edition)|
 {.references}
 
-While this guide strives to make the information as current as possible, much of the material referenced comes from materials authored for older editions of Dungeons & Dragons (as described at the end of each reference). As such, it may or may not be official canon for Fifth Edition. Read more about the official [D&D Canon Policy](https://dnd.wizards.com/dndstudioblog/dnd-canon).
+Хоча цей посібник прагне зробити інформацію якомога актуальнішою, більшість джерел, це матеріали створені для старих видань Dungeons & Dragons. Таким чином, представлена інформація не обов'язково може бути офіційним каноном для п’ятого видання. Ознайомтесь з [політикою канону у D&D](https://dnd.wizards.com/dndstudioblog/dnd-canon).
 
-### Homebrew Content
+### Хоумбрю контент
 
-Whenever you see the mug icon below, it means the section is "Homebrew" content. That is, this content was made up for this guide and is not a part of any official Forgotten Realms lore or canon. In such sections, it is entirely acceptable to change the names and demeanor of NPCs, stores, inns, items, etc. to fit *your* campaign.
+Значок кухля повідомляє, що розділ містить «Хоумбрю», тобто аматорський, вміст. Це контент створений для даного посібника й не є частиною жодної офіційної історії чи канону Forgotten Realms. В таких розділах цілком прийнятно змінювати імена й поведінку NPC, магазини, готелі, предмети тощо відповідно до *ваших* потреб.
 
-|![Homebrew](mug.svg)**Homebrew Content**|
+|![Homebrew](mug.svg)**Хоумбрю контент**|
 |---|
-|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|Тут знаходиться контент, створений для даного посібника. Модифікуйте його для *власних* кампаній!|
 {.homebrew}
 
 ### Virtual Tabletops
 
-This guide was designed with virtual tabletop (VTT) software in mind. If you have come across this guide in PDF form, but need maps, tokens, images or other resources for your Virtual Tabletop, please visit [the website for this guide](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) where all of the resources can be downloaded for free. Official modules for this guide can be found for [EncounterPlus](https://encounter.plus).
+Оригінал посібника розроблено з урахуванням програмного забезпечення virtual tabletop (VTT). Для використання матеріалів відсутніх у pdf версії посібника, ви можете відвідати [сайт оригінальних творців посібника](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter), де можна безкоштовно завантажити всі необхідні ресурси. Також офіційні модулі доступні на [EncounterPlus](https://encounter.plus)
 
-### Contributing
+### Внесок
 
-This guide is open source! This means that if you find any errors in this guide and wish to contribute, you may do so by going to the [source repository](https://github.com/jacobjohnston/neverwinterguide) for this guide and submitting your suggested changes. If your changes are accepted, you will have your name added to the list of contributors in the credits!
+Цей посібник є open source продуктом! Це означає, що ви можете ознайомитись з [оригінальним репозиторієм](https://github.com/jacobjohnston/neverwinterguide) й запропонувати власні зміни.
 
-### Using Content From this Guide
+### Використання вмісту посібника
 
-In general, redistribution of this guide's content is allowed and encouraged! The content of this guide is released under Wizards of the Coasts' Fan Content Policy. This requires, among other things, that the content always be made available for free. It's also politely requested that you provide attribution/credit for content from this guide where possible.
+В цілому, повторне розповсюдження вмісту цього посібника дозволено та заохочується! Контент цієї книги оприлюднено відповідно до Політики вмісту Wizards of the Coasts. Це вимагає, серед іншого, щоб вміст поширювався безкоштовно. Ми також ввічливо просимо вас, де це можливо, вказати авторство при поширенні контенту з посібника.
 
-**Can I use this content in my campaign with my players?**
+**Чи можу я використовувати наведені матеріали в своїх кампаніях?**
 
-Absolutely!
+Абсолютно!
 
-**Can I post this PDF to \[my favorite website\]?**
+**Чи можу я запостити цей PDF на моєму улюбленому сайті?**
 
-Go for it!
+Вперед!
 
-**Can I create and distribute a module of this content for \[my favorite VTT\]?**
+**Чи можу я самостійно створювати й поширювати модулі з використанням наведених матеріалів?**
 
-Yes! However, a module with any of the non-homebrew content from this guide would be expected to also follow Wizards of the Coast's Fan Content policy and, thus, should also be made available for free. Please give proper [credit](credits) to the artists and authors of this guide!
+Так! Але, згідно політики WoC поширення матеріалів повинне бути безкоштовним. Будь ласка, віддайте належне [художникам і авторам](credits) цього посібника!
 
-**Can I share the artwork in this guide (e.g., put it up on Pinterest)?**
+**Чи можу я ділитися ілюстраціями з посібника (на приклад на Pinterest)?**
 
-Totally. It'd be awesome if you [linked](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) to this guide and/or the [artist's website](credits) when you did!
+Цілком. Та було б чудово, якби ви залишили [посилання](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) на творців, чи на [сайт художника](credits) який вам сподобався.
 
-**Can I use the artwork in this module in my own content?**
+**Чи можу я використовувати ілюстрації з цього посібника, у власних роботах?**
 
-Yes. Please give attribution to this guide and the [original artist](credits)!
+Так. Тільки не забудьте вказати [автора](credits) ілюстрації.
 
-**I have a question or suggestion not covered here!**
+**Я маю питання чи пропозицію, які не було тут згадано!**
 
-I'd love to hear from you! [Contact me here](https://inchoatethoughts.com/contact).
+Ви можете написати [Авторам посібника](https://inchoatethoughts.com/contact).

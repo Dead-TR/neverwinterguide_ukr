@@ -1,3 +1,5 @@
+![cover](./Cover.jpg)
+
 # A Dungeon Master's Guide to Neverwinter
 
 This guide was created to provide DMs with the necessary information about Neverwinter as it exists for the Fifth Edition of Dungeons & Dragons, particularly in the early 1490s DR. If you're here, it likely means you would like to contribute to this guide in some way - either by correcting some information or adding content.
