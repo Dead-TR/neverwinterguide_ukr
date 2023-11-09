@@ -1,5 +1,5 @@
 ---
-name: The Abandoned Townhouse
+name: Покинутий Таунхаус
 slug: the-abandoned-townhouse
 order: 01
 module-pagebreaks: h1, h2, h3
@@ -7,79 +7,80 @@ module-pagebreaks: h1, h2, h3
 
 ![The Abandoned Townhouse Map](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
 
-# The Abandoned Townhouse
+# Покинутий Таунхаус
 
-|![Homebrew](../mug.svg)**Homebrew Content**|
+|![Homebrew](../mug.svg)**Хоумбрю контент**|
 |---|
-|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|Цей розділ містить неофіційні локації Невервінтера, створені для цього посібника. Кастомізуйте їх для *власних* кампаній!|
 {.homebrew}
 
-This Quick Adventure is designed for a party of roughly three to five 5th level players.{.no-fancy}
+Ця швидка пригода призначена для групи приблизно від трьох до п’яти гравців 5-го рівня.{.no-fancy}
 
-## Adventure Background
+## Преамбула
 
-In the Bluelake district of Neverwinter sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm's Hold. In an attempt to rescue his wife from Helm's Hold, he used his substantial psychic magic to send many of Neverwinter's residents into madness. Soon after this attack, he left Neverwinter for Helm's Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm's Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
+В Районі Синього Озера стоїть покинутий таунхаус. Раніше він належав Елдену Варґасу, воїну-чаклуну з Кормиру. Після того, як його дружина захворіла, він став вести справи з Ашмадаями, котрі вивезли її до Фортеці Гельма (*Helm's Hold*), а ним самим стали маніпулювати. Шукаючи ліки, Елден ставив експерименти на численних містянах, що звело їх з розуму. Зрештю, він залишив Невервінтер й відправився до Фортеці Гельма, де його, та культ, згодом зупинив Орден Позолоченого Ока (вбивши чаклуна, чи схопивши). Елден Варґас, більше ніколи не повертався до свого будинку у Невервінтері.
 
-Before leaving, Elden Vargas used magic to seal shut his townhouse to prevent intruders from entering. This abandoned property has been long-desired by those looking to claim the abandoned estates of the Bluelake district, but the magical wards on the property have, so far, kept any squatters from taking the property.
+Перш ніж піти, аби запобігти зловмисникам, Елден запечатав свій дім магією. Місцеві вже давно поклали око на це майно, але магічний захист, до сих пір не дозволив нікому ним заволодіти.
 
-The Dead Rats gang, who operates in the sewers of Neverwinter, has been eying the property for some time. They have recently enlisted one of their mages from Luskan to help break the magic wards on the property so they can claim whatever magical relics might lie within.
+Банда Мертвих Щурів, що оперує в міських каналах, вже давно претендує на власність. Нещодавно вони залучили одного зі своїх магів з Лускану, аби той допоміг зламати магічні замки. Таким чином, вони зможуть заволодіти реліквіями чаклуна.
 
-## Adventure Hooks
+## Сюжетні Зачіпки
 
-**Rumors of Riches**<br />
-The adventurers overhear tavern talk about a strange, abandoned noble estate that has yet to be looted. The tavern patrons speculate there are rare magical items in the estate and anyone brave enough to enter the place would be richly rewarded.
+**Чутки про багатство**<br />
+В таверні, авантюристи почули розмову про дивний, покинутий дворянський маєток, що все ще не розграбований. У ньому повинні бути рідкісні магічні речі, котрі зможе забрати будь-хто, кому стане сміливості туди увійти.
 
-**Commissioned**<br />
-The adventurers are commissioned by a wealthy merchant to break down the magical barrier preventing entry into the house. The merchant would ultimately like to renovate and sell the estate, but can't do so until the magic barrier is removed.
+**За дорученням**<br />
+Багатий купець наймає авантюристів, аби ті зруйнували магічний бар'єр, який перешкоджає входу всередину. Він хотів би відремонтувати й продати споруду, але не може цього зробити.
 
 (print-page)
 
-## Investigating the Townhouse
+## Досліджння Таунхаусу
 
-When the players approach the house, read the following:
+Коли гравці підійдуть до будинку, зачитайте наступне:
 
-> An iron fence surrounds the townhouse, but the gate swings open freely. The wind begins unnaturally howling and the sky darkens slightly with cloud cover. The townhouse, other than having some untended plants taking over, appears to be in decent shape. The windows emit a faint blue glow but are otherwise too dusty to peer through. {.read}
+> Територію будівлі оточує великий металевий паркан, втім, його ворота не замкнені. Чується завивання вітру, а небо огортається хмарами. За вийнятком зів'ялих рослин, таунхаус виглядає цілком доглянуто. Вікна випромінюють слабке синє сяйво, але вони надто брудні, щоб через них можна було щось побачити.{.read}
 
-### 1. Townhouse Exterior
+### 1. Екстер'єр Таунхаусу
 
 ||
 |---|
 |![Skull](../skull.svg)[Encounter: 2 x Wererat Assassin, 1 x Wererat Wizard](abandoned-townhouse-wererat-encounter)|
 {.enemy .screen-only}
 
-The door to the townhouse is firmly locked. The entire house is protected with abjuration magic, and attempts to physically break through a window or door will be met with failure (no matter how strong the party members are). The magical barrier, placed by Elden Vargas, was meant to keep common thieves out of his home while he was away. A simple [Dispel Magic](/spell/dispel-magic) spell will rid the entire townhouse of the barrier.
+Двері в будівлю намертво замкнені. Увесь будинок захищено магією зречення, й будь-які фізичні спроби пробитися через вікна чи двері зазнають невдачі (незалежно від показника сили гравця). Елден Варґас мав на меті захистити свій дім, від простих крадіїв, доки той буде відсутній. А тому, просте заклинання [Розсіювання Магії](/spell/dispel-magic) позбавить від бар'єру усю споруду.
 
-As the players try to enter the door, however, three members of the Dead Rats gang (2 [Wererat Assassins](/monster/wererat-assassin){.screen-only}[Wererat Assassins](wererat-assassin-page){.print-only .monster} and a [Wererat Wizard](/monster/wererat-wizard){.screen-only}[Wererat Wizard](wererat-wizard-page){.print-only .monster}) approach from behind:
+Як тільки гравці спробують увійти, з-за спин з'являться троє членів Метрвих Щурів (2 [Щуролаки Вбивці](/monster/wererat-assassin){.screen-only}[Щуролаки Вбивці](wererat-assassin-page){.print-only .monster}, та [Щуролак Чаклун](/monster/wererat-wizard){.screen-only}[Щуролак Чаклун](wererat-wizard-page){.print-only .monster}).
 
-> As you work out how to enter the structure, three half-man-half-rat hybrids enter the gates behind you. Two are dressed in black leather and carry an array of swords and daggers, and one is in robes and carries a glowing staff. One of the leather-clad rats snarls at you, "this is Dead Rats property you're trespassing on, and we think it is best if you leave." {.read}
+> Поки ви обдумуєте як увійти в таунхаус, троє гібридів людо-щурів входять в ворота позаду вас. Два з них одягнені в чорну шкіру й озброєні мечами й кинджалами, й один у мантії й тримає у руках сяючий посох. Один, з тих, що у шкірі, гарчить на вас: "Те, куди ви проникли, це є власніть Мертвих Щурів! Й ми вважаємо, що вам ліпше піти".{.read}
 
-The party is free to leave unharmed if they wish. If they choose to do so, the next time they return to the property, it will be ransacked and empty of all items. If the adventurers decline to leave, the wererats attack. If the Wererat Assassins are killed first, the Wererat Wizard will attempt to flee. The Wererat Wizard can be coerced to dispel the magic barrier if captured alive.
+Гравці вільні їх послухати та піти. Але в цьому разі, повернувшись до власності, вони знайдуть маєток розграбованим та порожнім. Якщо ж вони відмовляться -- щуролаки на них нападуть. Якщо першими падуть Щуролаки Вбивці, Щуролак Чаклун спробує утекти. Його можна змусити розвіяти магічний бар'єр, якщо схопити живим.
 
-### 2. Dining & Living Room
 
-A strange blue flame flickers in the hearth but produces no heat. Old cobwebs line the walls, and dust has settled on every surface. A DC 15 Intelligence (Investigation) check on the bookshelves will reveal a [1st Level Spell Scroll](/item/spell-scroll-1st-level){.magic-item}.
+### 2. Вітальня та Столова кімната
 
-### 3. Kitchen
+Дивне блакитне полум’я мерехтить у вогнищі, але не виділяє тепла. Стіни вистелено старою павутиною, а на кожній поверхні осів пил. Перевірка Інтилекту (Обстеження) з СК 15 на книжкових полицях допоможе знайти [Чарівний Сувій 1-го Рівня](/item/spell-scroll-1st-level){.magic-item}.
 
-The same strange blue flame is in the kitchen hearth. Despite producing no heat, a pot of water boils away on the hearth. Despite bubbling away, however, the water is actually cold to the touch. All of the food in this area has long rotted away to dust. When a creature enters the bathing room attached to the kitchen, the tub magically fills with water and starts heating.
+### 3. Кухня
 
-### 4. Study
+Таке ж дивне блакитне полум'я горить і на кухні. Незважаючи на відсутність тепла, над ним "кипить" каструля з водою. Однак вода не випаровується й на дотик абсолютно холодна. Вся їжа що тут була, давно стліла у пил. Звідси можна потрапити у ванну кімнату, увійшовши в яку, купіль починає наповнюватись водою та нагріватися.
 
-The floor in the study has grown creaky and the upstairs furniture is coated in dust like all the other areas of the home. A potted plant has long since died and withered away. The door to Elden Vargas's bedroom (Section 5) gently bangs as if a window inside were left open. A DC 15 Intelligence (Investigation) check on the bookshelves will reveal a [2nd Level Spell Scroll](/item/spell-scroll-2nd-level){.magic-item}.
+### 4. Кабінет
 
-### 5. Bedroom
+Під ногами у кабінеті скрипить підлога, а меблі, як і по всьому домі, вкриті шаром пилу. Рослина, в нині порожньому горщику, давно загинула й згнила. Двері у спальню (Секція 5) тихо стукають, наче всередині лишилось відкрите вікно. Перевірка Інтилекту (Обстеження) з СК 15 на книжкових полицях допоможе знайти [Чарівний Сувій 2-го Рівня](/item/spell-scroll-2nd-level){.magic-item}.
+
+### 5. Спальня
 
 ||
 |---|
 |![Skull](../skull.svg)[Encounter: 1 x Storm Gyre](abandoned-townhouse-storm-gyre-encounter)|
 {.enemy .screen-only}
 
-Elden Vargas has left a [Storm Gyre](/monster/storm-gyre){.screen-only}[Storm Gyre](storm-gyre-page){.print-only .monster} in his bedroom to stand sentry. When the players open the door to the room, read:
+У своїй спальні, на варті, Елден залишив [Грозовий Смерч](/monster/storm-gyre){.screen-only}[Грозовий Смерч](storm-gyre-page){.print-only .monster}. Коли гравці відкриють двері кімнати, зачитайте:
 
-> In the center of the room, a swirling vortex crackles with arcs of lightning. The vortex stays steady in the center of the room for a few heartbeats, but then a face emerges from the tempest. A chaotic wind sweeps through the room and sends papers on the desk flying. The vortex comes rushing at you. {.read}
+> Іскри блискавок потріскують серед закрученого виру у центрі кімнати. Якийсь час він лишається незмінним, а тоді в бурі, виникає обличчя. Кімнатою проноситься сильний вітер, змітаючи папери зі столу. А тоді, Грозовий Смерч, мчить прямо на вас!{.read}
 
-The Storm Gyre attacks any creatures on sight and will fight until it is destroyed. It is not particularly smart, and will attack the nearest creature. However, if multiple creatures are close together, it will attempt to use its lightning attack to arc lightning through multiple creatures.
+Смерч атакує будь-яку істоту яку побачить, й буде боротися доки її не знищить. Створіння не є розумним й атакуватиме найближчого ворога. Однак, якщо декілька персонажів стоять близько один від одного, він атакує їх ланцюговою близкавкою, щоб нанести шкоду одразу кільком цілям.
 
-After defeating the Storm Gyre, players that search through the wardrobe in the bedroom will find a random item from [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) from the Dungeon Master's Guide. Pinned to a desk is a note that simply reads:
+Після битви, гравці можуть обшукати шафу й знайти там випадковий предмет з [Таблиці Магічних Предметів Б](https://dungeonmastertools.github.io/) з Посібника Майстра Підземель. На столі прикріплено записку з текстом:
 
-> My dearest Karis - If you're reading this, know that I'm truly sorry. - **Elden** {.paper}
+> Моя найдорожна Каріс, якщо ти це читаєш -- знай: мені щиро шкода. - **Елден** {.paper}

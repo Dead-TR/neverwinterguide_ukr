@@ -1,8 +1,8 @@
 ---
-name: Quick Adventures
+name: Швидкі Пригоди
 slug: quick-adventures-page
 order: 00
 include-in: print
 ---
 
-![QuickAdventures](QuickAdventures.svg){.size-cover}
+![QuickAdventures](QuickAdventures.png){.size-cover}

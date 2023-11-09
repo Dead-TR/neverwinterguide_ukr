@@ -1,3 +1,7 @@
+* {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
 table.wrapping {
   display: inline-block;
 }
@@ -7,7 +11,7 @@ figcaption {
   color: #631d07;
 }
 
-.allow-breaks { 
+.allow-breaks {
   page-break-inside: auto;
 }
 
@@ -286,7 +290,7 @@ table.dmidea a {
   .image-neverember {
     shape-outside: polygon(38% 0%, 38% 15%, 0% 70%, 0% 70%, 0% 80%, 15% 90%, 15% 100%, 0% 100%, 100% 100%, 100% 0%);
     margin-right: -0.5in;
-  }  
+  }
 
   .image-beached-leviathan {
     margin-left: -0.5in;
