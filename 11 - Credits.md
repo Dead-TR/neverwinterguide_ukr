@@ -1,5 +1,5 @@
 ---
-name: Credits
+name: Титри
 slug: credits
 order: 110
 pdf-page-style: single-column
