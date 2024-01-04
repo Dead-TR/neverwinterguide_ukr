@@ -19,21 +19,21 @@ int: 5
 wis: 14
 cha: 5
 senses: темнозір 60 фут., пасивна Уважність 12
-damageResistances: блискавка, грім; bludgeoning, piercing, and slashing from nonmagical attacks
-damageImmunities: poison
-conditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-languages: Auran
+damageResistances: блискавка, грім; забійні, пронизувальні, та рублячі немагічні атаки
+damageImmunities: отрута
+conditionImmunities: виснажений, схоплений, паралізований, скам'янілий, отруєний, повалений, обплутаний, непритомний
+languages: Ауран
 challenge: 8
 token: StormGyreToken.png
 image: StormGyre.jpg
 traits:
-  - name: Air Form
-    description: "The Грозовий Смерч can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+  - name: Повітряна Форма
+    description: "Грозовий Смерч може ввійти й зупинитися у просторі ворожої істоти. Він може проходити крізь вузькі щілини шириною до одного дюйма не стискаючись."
 actions:
-  - name: Percuss
-    description: "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (2d10 + 8) thunder damage, and the target must succeed on a DC 13 Constitution saving throw or be stunned until the end of the gyre's next turn."
-  - name: Conduction
-    description: "The Грозовий Смерч picks a target within 60 feet. That target, and all other targets within 10 feet of that target, must make a DC 14 Dexterity saving throw. All targets take 22 (5d8) lightning damage on a failed save, or half as much on a successful one."
+  - name: Удар
+    description: "Атака Зброєю Ближнього Бою: +8 до попадання, досяжність 5 футів, одна ціль. Наносить: 19 (2d10 + 8) одиниць шкоди від грому. Ціль мусить здійснити успішний рятівний кидок Статури з СК 13, інакше буде приголомшеною до кінця наступного ходу."
+  - name: Провідність
+    description: "The Грозовий Смерч вибирає ціль у межах 60 футів. Вона, і всі інші цілі в межах 10 футів від неї, повинні зробити успішний рятівний кидок спритності з СК 14. Усі цілі отримають 22 (5d8) одиниць шкоди від блискавки, при провалі кидка, або вдвічі менше у разі успіху."
 column-after: actions
 column-after-property: Percuss
 ```

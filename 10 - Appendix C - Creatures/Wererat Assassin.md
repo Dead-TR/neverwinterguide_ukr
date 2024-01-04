@@ -1,48 +1,48 @@
 ---
-name: Wererat Assassin
+name: Щуролак Убивця
 slug: wererat-assassin-page
 ---
 
 ```Monster {.two-column}
-name: Wererat Assassin
+name: Щуролак Убивця
 slug: wererat-assassin
-size: Medium
-type: Humanoid
-alignment: Any Alignment
-ac: 16 (Studded Leather)
+size: Середній
+type: Гуманоїд
+alignment: Будь-який світогляд
+ac: 16 (Шкіряний нютовий обладунок)
 hp: 75 (9d10 + 26)
-speed: 30 ft.
+speed: 30 футів.
 str: 11
 dex: 18
 con: 14
 int: 11
 wis: 11
 cha: 12
-saves: Dex +7, Int +3
-skills: Perception +3, Stealth +7
-damageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-senses: darkvision 60 ft., passive Perception 13
-languages: common, thieves' cant (can't speak in rat form)
+saves: Спритність +7, Інтелект +3
+skills: Сприйняття +3, Скрадання +7
+damageImmunities: забійні, пронизувальні та рублячі немагічні атаки непосрібленою зброєю
+senses: темнозір 60 футів., пасивне Сприйняття 13
+languages: загальна, злочинний жаргон (не може говорити в щурячій формі)
 challenge: 4
-environments: Urban
+environments: Міське
 traits:
-  - name: Keen Smell
-    description: The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+  - name: Гострий нюх
+    description: Щуролак має переваги при перевірках Мудрості(Сприйняття), що покладаються на нюх.
 actions:
-  - name: Multiattack (Humanoid or Hybrid Form Only)
-    description: "The wererat makes 3 attacks with its dagger."
-  - name: Dagger (Humanoid or Hybrid Form Only)
-    description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage."
-  - name: Hand Crossbow (Humanoid or Hybrid Form Only)
-    description: "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
-  - name: Bite (Rat or Hybrid Form Only)
-    description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target Hit: 6 (1d4 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
+  - name: Мультиатака (Лише в гуманоїдній або гібридній формі)
+    description: "Щуролак здійснює три атаки своїм кинджалом."
+  - name: Удар Кинджалом (Лише в гуманоїдній або гібридній формі)
+    description: "Атака Зброєю Ближнього Бою: +6 до попадання, досяжність 5 футів., одна ціль. Наносить: 6 (1d4 + 4) пронизувальної шкоди."
+  - name: Ручний Арбалет (Лише в гуманоїдній або гібридній формі)
+    description: "Атака Далекобійною Зброєю: +6 до попадання, дальність 30/120 футів., одна ціль. Наносить: 7 (1d6 + 4) пронизувальної шкоди."
+  - name: Укус (Лише в щурячій або гібридній формі)
+    description: "Атака Зброєю Ближнього Бою: +6 до попадання, досяжність 5 ft., одна ціль. Наносить: 6 (1d4 + 4) пронизувальної шкоди. Якщо ціль гуманоїд -- вона мусить зробити успішний кидок Статури, інакше набуде прокляття щуролачої лікантропії"
 bonus-actions:
-  - name: Change Shape
-    description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+  - name: Зміна Форми
+    description: "Щуролак може перетворитися на гіганського пацюка, на гібрид щура-гуманоїда, або повернутися у свою гуманоїдну форму. Усі його характеристики, окрім розміру, в усіх формах однакові. Його екіпірування не трансформується. В разі смерті, повертається до своєї природньої форми."
 reactions:
-  - name: Uncanny Dodge
-    description: "The wererat halves the damage that it takes from an attack that hits it. It must be able to see the attacker."
+  - name: Вражаюче Ухилення
+    description: "Щуролак вдвічі зменшує шкоду від отриманої атаки. Повинен бачити нападника."
 image: WereratAssassin.jpg
 token: WereratAssassinToken.png
 column-after: actions

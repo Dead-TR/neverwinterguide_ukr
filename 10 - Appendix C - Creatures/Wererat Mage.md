@@ -1,50 +1,50 @@
 ---
-name: Wererat Wizard
+name: Щуролак Чаклун
 slug: wererat-wizard-page
 ---
 
 ```Monster {.two-column}
-name: Wererat Wizard
+name: Щуролак Чаклун
 slug: wererat-wizard
-size: Medium
-type: Humanoid
-alignment: Any Alignment
-ac: 12 (15 with mage armor)
+size: Середній
+type: Гуманоїд
+alignment: Будь-який світогляд
+ac: 12 (15 з магічною робою)
 hp: 49 (11d8)
-speed: 30 ft.
+speed: 30 футів.
 str: 9
 dex: 14
 con: 11
 int: 17
 wis: 12
 cha: 11
-saves: Int +6, Wis +4
-skills: Arcana +6, History +6
-damageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-senses: darkvision 60 ft., passive Perception 11
-languages: any three languages and thieves' cant (can't speak in rat form)
+saves: Інтилект +6, Мудрість +4
+skills: Магія +6, Історія +6
+damageImmunities: забійні, пронизувальні та рублячі немагічні атаки непосрібленою зброєю
+senses: темнозір 60 ft., пасивне Сприйняття 11
+languages: будь-які три мови й злочинний жаргон (не може говорити в щурячій формі)
 challenge: 5
-environments: Urban
+environments: Міське
 traits:
-  - name: Keen Smell
-    description: The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+  - name: Гострий нюх
+    description: Щуролак має переваги при перевірках Мудрості(Сприйняття), що покладаються на нюх.
 actions:
-  - name: Multiattack (Humanoid or Hybrid Form Only)
-    description: "The wererat makes three Arcane Burst attacks."
-  - name: Arcane Burst (Humanoid or Hybrid Form Only)
-    description: "Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 120 ft., one target. Hit: 19 (3d10 + 3) force damage."
-  - name: Bite (Rat or Hybrid Form Only)
-    description: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
-  - name: Spellcasting (Humanoid or Hybrid Form Only)
-    description: "The wererat casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
+  - name: Мультиатака (Лише в гуманоїдній або гібридній формі)
+    description: "Щуролак може здійснити три атаки Магічного Вибуху."
+  - name: Магічний Вибух (Лише в гуманоїдній або гібридній формі)
+    description: "Ближня або Дальня атака Магією: +6 до попадання, досяжність 5 футів. або дальність 120 футів., одна ціль. Наносить: 19 (3d10 + 3) силової шкоди."
+  - name: Укус (Лише в щурячій або гібридній формі)
+    description: "Атака Зброєю Ближнього Бою: +5 до попадання, досяжність 5 ft., одна ціль. Наносить: 4 (1d4 + 2) пронизувальної шкоди. Якщо ціль гуманоїд -- вона мусить зробити успішний кидок Статури, інакше набуде прокляття щуролачої лікантропії"
+  - name: Чаклування (Лише в гуманоїдній або гібридній формі)
+    description: "Щуролак зачитує одне з наступних заклинань, використовуючи Інтилект як магічної характеристики (збереження заклинання СК 14):
 
 
-        At will: <i>dancing lights</i>, <i>mage hand</i>, <i>prestidigitation</i>
+        За бажання: <i>танцюючі вогні</i>, <i>магічна рука</i>, <i>prestidigitation</i>
 
         2/day each: <i>fireball</i>, <i>mage armor</i>, <i>unseen servant</i>, <i>ice storm</i>"
 bonus-actions:
   - name: Change Shape
-    description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+    description: "Щуролак transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
 image: WereratMage.jpg
 token: WereratMageToken.png
 column-after: actions

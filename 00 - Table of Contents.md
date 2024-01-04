@@ -16,39 +16,40 @@ hide-footer-text: true
 - [Протекторський Анклав](protectors-enclave) {.category}
 - [Зал Правосуддя](the-hall-of-justice)
 - [Дім Знань](the-house-of-knowledge)
-- [The Floating Earthmotes](the-floating-earthmotes) {.category}
-- [The Moonstone Mask](the-moonstone-mask)
-- [Pirates' Skyhold](pirates-skyhold)
-- [Fisher's Float](fishers-float)
-- [Neverwinter's Docks](neverwinters-docks) {.category}
-- [The Beached Leviathan](the-beached-leviathan)
-- [The Driftwood Tavern](the-driftwood-tavern)
-- [The Tarmalune Trade House](the-tarmalune-trade-house)
-- [Tower District](tower-district) {.category}
-- [The Shard of the Moon](the-shard-of-the-moon)
-- [The Cloak Tower](the-cloak-tower)
-- [The Fallen Tower](the-fallen-tower)
-- [Bluelake District](bluelake-district) {.category}
-- [Bluelake](bluelake)
-- [House of a Thousand Faces](house-of-a-thousand-faces)
-- [The Chasm District](the-chasm-district) {.category}
-- [The Sealed Chasm](the-sealed-chasm)
-- [Neverdeath](neverdeath) {.category}
-- [Lord Protector Neverember](lord-protector-neverember) {.part}
-- [History of Neverwinter](history-of-neverwinter) {.part}
-- [Homebrew Locations](homebrew-locations) {.part}
-- [Brannur's Dependable Defenses](brannurs-dependable-defenses)
-- [Brannwyn's Sharp Edge](brannwyns-sharp-edge)
-- [Swift Heart Sundries](swift-heart-sundries)
-- [Priscilla's Perfumes and Potables](priscillas-perfumes-and-potables)
-- [Arcane Acquisitions](arcane-acquisitions)
-- [Quick Adventures](quick-adventures-page) {.part}
-- [The Abandoned Townhouse](the-abandoned-townhouse)
-- [Appendices](appendix-a-maps-page) {.part}
-- [Appendix A - Maps](appendix-a-maps-page)
-- [Appendix B - Point of Interest Cards](appendix-b-point-of-interest-cards-page)
-- [Appendix C - Creatures](appendix-c-creatures-page)
-- [Credits](credits) {.part}
+- [Витаючі Острови](the-floating-earthmotes) {.category}
+- [Місячна Маска](the-moonstone-mask)
+- [Скайхолд Піратів](pirates-skyhold)
+- [Поплавок Фішера](fishers-float)
+- [Невервінтерські Доки](neverwinters-docks) {.category}
+- [Пришвартований Левіафан](the-beached-leviathan)
+- [Таверна Дріфтвуд](the-driftwood-tavern)
+- [Торговий Дім Тармалуну](the-tarmalune-trade-house)
+- [Район Веж](tower-district) {.category}
+- [Уламок Місяця](the-shard-of-the-moon)
+- [Плащева Вежа](the-cloak-tower)
+- [Повалена Вежа](the-fallen-tower)
+- [Район Синього Озера](bluelake-district) {.category}
+- [Синє Озеро](bluelake)
+- [Будинок Тисячі Лиць](house-of-a-thousand-faces)
+- [Район Прірви](the-chasm-district) {.category}
+- [Запечатана Прірва](the-sealed-chasm)
+- [Невердеф](neverdeath) {.category}
+- [Лорд-Протектор Нетліючий](lord-protector-neverember) {.part}
+- [Історія Невервінтера](history-of-neverwinter) {.part}
+- [Хоумбрю Локації](homebrew-locations) {.part}
+- [Надійний Захист Від Браннура](brannurs-dependable-defenses)
+- [Гостре Лезо Бреннвін](brannwyns-sharp-edge)
+- [Дрібнички Стрімкого Серця](swift-heart-sundries)
+- [Напої та Парфуми Прісцилли](priscillas-perfumes-and-potables)
+- [Здобутки Аркан](arcane-acquisitions)
+- [Швидкі Пригоди](quick-adventures-page) {.part}
+- [Покинутий Таунхаус](the-abandoned-townhouse)
+- [Додатки](appendix-a-maps-page) {.part}
+- [Додаток А - Мапи](appendix-a-maps-page)
+- [Додаток Б - Заклади](appendix-b-point-of-interest-cards-page)
+- [Додаток В - Істоти](appendix-c-creatures-page)
+- [Титри](credits) {.part}
+- [Про переклад](credits) {.part}
 {.toc}
 
 Version 1.6 {.print-bottom-right .with-margin}
