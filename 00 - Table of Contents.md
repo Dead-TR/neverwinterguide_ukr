@@ -7,7 +7,7 @@ Include-in: print
 hide-footer-text: true
 ---
 
-# Table of Contents
+# Зміст
 
 - [Вступ](introduction) {.part}
 - [Про цей посібник](про-цей-посібник)
